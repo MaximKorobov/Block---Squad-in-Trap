@@ -1,0 +1,2060 @@
+<REAPER_PROJECT 0.1 "5.62/x64" 1511090919
+  <NOTES 1
+    |New Loops - Deadly Trap
+    |
+    |Kit 05
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 176.25
+  ZOOM 12.85911208940572 1592 0
+  VZOOMEX 4
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "..\!audio\\15. Dropzone v4.mp3"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    bDNwbYAAAAABAAAABQAAAP////8EAAAAgAAAAAAAAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 160 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 6 6
+  SELECTION2 6 6
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 24
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERFXLIST
+    WNDRECT 1935 175 970 578
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+    BYPASS 0 0 0
+    <VST "VST: EZmix (Toontrack)" EZmix.dll 0 "" 1702522232
+      eG16Ze5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAcwAAAAEAAAAAABAA
+      ViAxClJlcG9ydExhdGVuY3kgMQpQcmVzZXQgIkNvcmUiICJNYXN0ZXIvTWFzdGVyMSIKU2hhcGUgMC4zMTg4NgpCbGVuZCAwLjQ5OTk2NwpMZXZlbCAwLjc1CklucHV0
+      IDAuNzUKSW5wdXRMb2NrIDAKAA==
+      AEJhc2ljABAAAAA=
+    >
+    PRESETNAME Basic
+    FLOATPOS 0 0 0 0
+    FXID {ADFA0E40-0441-47E0-B927-C0842A6CE0CF}
+    WAK 0
+  >
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 0 Intro 0 0 1 R
+  MARKER 2 36 "Theme 1" 0 0 1 R
+  MARKER 3 108 "Intro 2" 0 0 1 R
+  MARKER 4 144 "Theme 1" 0 0 1 R
+  MARKER 5 216 Outro 0 0 1 R
+  <PROJBAY
+  >
+  <TRACK {ED18F2B9-D0EC-4CF5-821B-E8D0226DB0E4}
+    NAME Drums
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {ED18F2B9-D0EC-4CF5-821B-E8D0226DB0E4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {13C3CFC4-747B-4EC4-8BF7-4EDCE336B4BE}
+    NAME ""
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {13C3CFC4-747B-4EC4-8BF7-4EDCE336B4BE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 22.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8AE537B3-43C5-4EF8-8C90-8F3B681D1E26}
+      IID 69
+      NAME DT-05_160_Drums-Minimal-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F48AC65A-19C3-41B6-B810-B742A3A64124}
+      <SOURCE WAVE
+        FILE "DT-05_160_Drums-Minimal-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 144
+      SNAPOFFS 0
+      LENGTH 22.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B9B5DF69-A079-454C-AD61-13DEE2582192}
+      IID 216
+      NAME DT-05_160_Drums-Minimal-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8BFC2E2B-4ABF-4797-AD1E-0EED1128AE5F}
+      <SOURCE WAVE
+        FILE "DT-05_160_Drums-Minimal-1.wav"
+      >
+    >
+  >
+  <TRACK {722F88A1-411C-4C0C-BE72-26D488496975}
+    NAME ""
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {722F88A1-411C-4C0C-BE72-26D488496975}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 23.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 4.51042 0 1 0 0
+      FADEOUT 1 0.009375 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DC2D7635-6216-4EDD-961C-6908A5955548}
+      IID 67
+      NAME DT-05_160_Drums-Intro-Full.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A777F011-0B29-499C-9470-5FF15E0DBF85}
+      <SOURCE WAVE
+        FILE "DT-05_160_Drums-Intro-Full.wav"
+      >
+    >
+    <ITEM
+      POSITION 60
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {86FFAF10-A8CE-45B7-BAF0-1BF801057919}
+      IID 80
+      NAME DT-05_160_Drums-Full-1-Alt.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98DDE342-65BA-457E-BC8B-463C02A6F2DC}
+      <SOURCE WAVE
+        FILE "DT-05_160_Drums-Full-1-Alt.wav"
+      >
+    >
+    <ITEM
+      POSITION 84
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5939B87F-86F3-4CB7-8755-6EA9CE2B758D}
+      IID 203
+      NAME DT-05_160_Drums-Full-1-Alt.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {23B14FEA-66FF-46EA-B09D-5AD9BD290A7B}
+      <SOURCE WAVE
+        FILE "DT-05_160_Drums-Full-1-Alt.wav"
+      >
+    >
+    <ITEM
+      POSITION 108
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7C92B726-ECFA-4AE0-98E8-6D35317C6909}
+      IID 81
+      NAME "FX Kick Impact.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B5BF292-C6DE-4D7F-9631-6BBE000D2DDA}
+      <SOURCE WAVE
+        FILE "FX Kick Impact.wav"
+      >
+    >
+    <ITEM
+      POSITION 120
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A1CB50A4-B153-420D-A3D6-EBA2012CABFC}
+      IID 81
+      NAME "FX Kick Impact.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A707C640-594F-4CAA-82A3-7DC4958C00CF}
+      <SOURCE WAVE
+        FILE "FX Kick Impact.wav"
+      >
+    >
+    <ITEM
+      POSITION 132
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D4887A66-94E0-42BD-A427-9F53F5947C52}
+      IID 81
+      NAME "FX Kick Impact.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE078497-509E-4A8C-BDF2-4FC4FF31CA41}
+      <SOURCE WAVE
+        FILE "FX Kick Impact.wav"
+      >
+    >
+    <ITEM
+      POSITION 168
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C3201853-39E0-4118-9108-18FA80446D3B}
+      IID 217
+      NAME DT-05_160_Drums-Full-1-Alt.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {401B3A76-4126-4E86-BA4B-1F7904BB68C8}
+      <SOURCE WAVE
+        FILE "DT-05_160_Drums-Full-1-Alt.wav"
+      >
+    >
+    <ITEM
+      POSITION 192
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {99A8A929-2026-4D8B-9300-9A7E8EE2A48F}
+      IID 218
+      NAME DT-05_160_Drums-Full-1-Alt.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {49E4C4ED-10E6-40B4-B0E7-88B8BF25A472}
+      <SOURCE WAVE
+        FILE "DT-05_160_Drums-Full-1-Alt.wav"
+      >
+    >
+  >
+  <TRACK {E0AA9B16-D7BD-4556-80C6-85D4AD5C0339}
+    NAME ""
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E0AA9B16-D7BD-4556-80C6-85D4AD5C0339}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {900D5507-CE8B-4F5D-ACEE-B84681F26B51}
+      IID 300
+      NAME "FX Kick Impact.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2274AF9C-BFCA-4307-830E-42DDBF5B066A}
+      <SOURCE WAVE
+        FILE "FX Kick Impact.wav"
+      >
+    >
+    <ITEM
+      POSITION 48
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {024E65BD-F72D-40AF-9052-D69D0F38F49E}
+      IID 73
+      NAME DT-05_160_Drums-Clank.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {767A8938-72A8-42E8-8F5F-F3543D938D06}
+      <SOURCE WAVE
+        FILE "DT-05_160_Drums-Clank.wav"
+      >
+    >
+    <ITEM
+      POSITION 72
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AA32AF19-C79E-46F0-83BB-648B1802C427}
+      IID 205
+      NAME DT-05_160_Drums-Clank.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3753AA6-F779-4A3B-9501-3F35944CF8D0}
+      <SOURCE WAVE
+        FILE "DT-05_160_Drums-Clank.wav"
+      >
+    >
+    <ITEM
+      POSITION 96
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C0D085F4-269B-44EB-80CA-FC71F6E650EC}
+      IID 206
+      NAME DT-05_160_Drums-Clank.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D6E38024-B1AA-4BBF-B330-8722BDCD7AD9}
+      <SOURCE WAVE
+        FILE "DT-05_160_Drums-Clank.wav"
+      >
+    >
+    <ITEM
+      POSITION 114
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6461C38D-A48C-4499-A3F6-6CB7833967F7}
+      IID 81
+      NAME "FX Kick Impact.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9385D745-EF80-4699-B695-7B1F656F4AB9}
+      <SOURCE WAVE
+        FILE "FX Kick Impact.wav"
+      >
+    >
+    <ITEM
+      POSITION 126
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D6D7CF15-8560-4FFF-BA83-95AF4E063A85}
+      IID 81
+      NAME "FX Kick Impact.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8498F341-8CBA-4C7B-AC5C-097812446299}
+      <SOURCE WAVE
+        FILE "FX Kick Impact.wav"
+      >
+    >
+    <ITEM
+      POSITION 138
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {48856E7C-9C81-4865-8187-804081D8F0B6}
+      IID 81
+      NAME "FX Kick Impact.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {36F0B729-77EB-4583-B809-26FF2085CC5D}
+      <SOURCE WAVE
+        FILE "FX Kick Impact.wav"
+      >
+    >
+    <ITEM
+      POSITION 156
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C3A9C74F-C0B9-4DF8-9CE6-F64E56230993}
+      IID 219
+      NAME DT-05_160_Drums-Clank.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0EBA3BC-1A11-4750-BA57-D0F771A02ACC}
+      <SOURCE WAVE
+        FILE "DT-05_160_Drums-Clank.wav"
+      >
+    >
+    <ITEM
+      POSITION 180
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1A071EBC-C83C-4229-9CE1-A54B0664636B}
+      IID 220
+      NAME DT-05_160_Drums-Clank.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC258079-D10F-4918-A1F7-611D8BDD1A67}
+      <SOURCE WAVE
+        FILE "DT-05_160_Drums-Clank.wav"
+      >
+    >
+    <ITEM
+      POSITION 204
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0E9900E0-B59F-4021-8D36-C34EF9EB7F92}
+      IID 221
+      NAME DT-05_160_Drums-Clank.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E080FB3F-59CD-47D5-BFB5-BE60AE95D7F5}
+      <SOURCE WAVE
+        FILE "DT-05_160_Drums-Clank.wav"
+      >
+    >
+    <ITEM
+      POSITION 216
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AF9B24B2-66D6-4D10-B836-2E68A08910D7}
+      IID 81
+      NAME "FX Kick Impact.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3ACD83C-9B7D-4786-9F7D-E02D33E51965}
+      <SOURCE WAVE
+        FILE "FX Kick Impact.wav"
+      >
+    >
+    <ITEM
+      POSITION 228
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A9DBCB18-629F-4027-AEED-D25A8AC039C6}
+      IID 81
+      NAME "FX Kick Impact.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32A067B9-A0C0-465F-9C79-52751996FB18}
+      <SOURCE WAVE
+        FILE "FX Kick Impact.wav"
+      >
+    >
+    <ITEM
+      POSITION 240
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C29ADF41-6F99-4A79-A60A-0230915E3224}
+      IID 81
+      NAME "FX Kick Impact.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F967A5B-545C-4144-BB53-6CA42C55BF4A}
+      <SOURCE WAVE
+        FILE "FX Kick Impact.wav"
+      >
+    >
+  >
+  <TRACK {C5D1036A-0FCC-4267-9A70-FCDE78E608A0}
+    NAME ""
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C5D1036A-0FCC-4267-9A70-FCDE78E608A0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1CB17E89-5BD1-4C66-97D4-90394BFFAAAB}
+      IID 68
+      NAME DT-05_160_Drums-Snare-Roll-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE07F57D-C42A-4958-96BF-67F3183A76D0}
+      <SOURCE WAVE
+        FILE "DT-05_160_Drums-Snare-Roll-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 132
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {47D8C2E0-DBA1-4072-9FB6-4B01190BC711}
+      IID 68
+      NAME DT-05_160_Drums-Snare-Roll-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9EDB5BB-F447-414A-80D0-50A0A8A6C5BA}
+      <SOURCE WAVE
+        FILE "DT-05_160_Drums-Snare-Roll-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 222
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FFE393AE-AF11-4A9D-880F-650DB847D366}
+      IID 81
+      NAME "FX Kick Impact.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3A85330-2717-48A0-AA52-9CAFA45D5256}
+      <SOURCE WAVE
+        FILE "FX Kick Impact.wav"
+      >
+    >
+    <ITEM
+      POSITION 234
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CF497570-D429-4128-B5EA-D6C3B393AF19}
+      IID 81
+      NAME "FX Kick Impact.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9DE2AE4D-133C-4AAC-9DCE-E16A9EEA6FC9}
+      <SOURCE WAVE
+        FILE "FX Kick Impact.wav"
+      >
+    >
+  >
+  <TRACK {739BE82A-F72F-4161-AAF0-9F2453640724}
+    NAME Bass
+    PEAKCOL 21004543
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {739BE82A-F72F-4161-AAF0-9F2453640724}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {F092CF93-70AB-4E7D-B45E-D102DA23432B}
+    NAME ""
+    PEAKCOL 21004543
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.84084642809367 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F092CF93-70AB-4E7D-B45E-D102DA23432B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 72
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {369BB32F-8489-491E-B386-6DE1E9D27330}
+      IID 71
+      NAME DT-05_160_Sub_Bass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E318A848-3A45-4C4B-9F5E-C059B3779CB7}
+      <SOURCE WAVE
+        FILE "DT-05_160_Sub_Bass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 144
+      SNAPOFFS 0
+      LENGTH 72
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {38B7DB5A-D918-4061-97CA-5A7A5E7D883C}
+      IID 222
+      NAME DT-05_160_Sub_Bass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42687EAE-923A-4C07-A1EC-D36D2DBB2A21}
+      <SOURCE WAVE
+        FILE "DT-05_160_Sub_Bass_E.wav"
+      >
+    >
+  >
+  <TRACK {04CDEA13-05D4-468B-B5A8-C758B84B9EB7}
+    NAME ""
+    PEAKCOL 21004543
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {04CDEA13-05D4-468B-B5A8-C758B84B9EB7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {60CECE64-0450-4999-9377-1AAFB8D7BB1A}
+    NAME Synth
+    PEAKCOL 33521664
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {60CECE64-0450-4999-9377-1AAFB8D7BB1A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 36
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 11.975944 0 1 0 0
+      FADEOUT 1 3.003216 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {21364E77-331B-40DD-A4F5-1421DAA044F1}
+      IID 299
+      NAME DT-05_160_Synth-Drone_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2BCF9D5-0729-4029-AF2B-E6A6772FF84D}
+      <SOURCE WAVE
+        FILE "DT-05_160_Synth-Drone_E.wav"
+      >
+    >
+  >
+  <TRACK {83131AFE-4403-431F-99FB-2E168C5ADA13}
+    NAME ""
+    PEAKCOL 33521664
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {83131AFE-4403-431F-99FB-2E168C5ADA13}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 108
+      SNAPOFFS 0
+      LENGTH 36
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 11.975944 0 1 0 0
+      FADEOUT 1 3.003216 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A1012B92-BBA9-4C94-B2C3-9EE9E74D5B68}
+      IID 70
+      NAME DT-05_160_Synth-Drone_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {147F05A3-AF7B-45E8-8973-9D575175D97D}
+      <SOURCE WAVE
+        FILE "DT-05_160_Synth-Drone_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 216
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 11.975944 0 1 0 0
+      FADEOUT 1 3.003216 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2F2B1948-7766-467E-8147-B19D0920BFA8}
+      IID 70
+      NAME DT-05_160_Synth-Drone_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {33EC48C5-D95D-4F32-A4A7-CA81AE632BDD}
+      <SOURCE WAVE
+        FILE "DT-05_160_Synth-Drone_E.wav"
+      >
+    >
+  >
+  <TRACK {A6A6F726-AD7E-4A49-A9B3-328C700F8FEE}
+    NAME ""
+    PEAKCOL 33521664
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A6A6F726-AD7E-4A49-A9B3-328C700F8FEE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7A8D14F1-B80D-4071-AA76-975AB3FA2842}
+      IID 72
+      NAME DT-05_160_Synth-Slide-Pluck_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B207C62-6E0E-46EB-8260-E91551F2EF43}
+      <SOURCE WAVE
+        FILE "DT-05_160_Synth-Slide-Pluck_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 144
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1B2AFF9F-7E86-432F-AC22-1518D2E78E1E}
+      IID 223
+      NAME DT-05_160_Synth-Slide-Pluck_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A885B4A8-3591-4F70-A703-E1DA97889FA1}
+      <SOURCE WAVE
+        FILE "DT-05_160_Synth-Slide-Pluck_E.wav"
+      >
+    >
+  >
+  <TRACK {CDC544BC-1946-4168-866F-30C18AE513C2}
+    NAME FX
+    PEAKCOL 33489151
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CDC544BC-1946-4168-866F-30C18AE513C2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 69.75
+      SNAPOFFS 0
+      LENGTH 2.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {874522A1-4823-48D1-879C-6E6AAC47301A}
+      IID 214
+      NAME DT-05_160_Metal_Bass_E.wav
+      VOLPAN 0.777778 0 1 -1
+      SOFFS 9.75
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {03B18BEA-CCB6-4889-99A9-3324EF75E82F}
+      <SOURCE WAVE
+        FILE "DT-05_160_Metal_Bass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 90
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {52609CBE-B56E-40EF-B966-45365A085640}
+      IID 173
+      NAME DT-05_160_Metal_Bass_E.wav
+      VOLPAN 0.777778 0 1 -1
+      SOFFS 6
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25842869-1605-422D-BD7D-ADD51F3435B1}
+      <SOURCE WAVE
+        FILE "DT-05_160_Metal_Bass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 102
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {97521558-8A77-47CF-B921-092415D6585C}
+      IID 143
+      NAME DT-05_160_Metal_Bass_E.wav
+      VOLPAN 0.777778 0 1 -1
+      SOFFS 6
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B5B5FB9-C383-4B70-9EC7-4518F8AC0BBD}
+      <SOURCE WAVE
+        FILE "DT-05_160_Metal_Bass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 177.75
+      SNAPOFFS 0
+      LENGTH 2.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {167B8804-F0BF-474C-8C22-32DFA8E19C0E}
+      IID 224
+      NAME DT-05_160_Metal_Bass_E.wav
+      VOLPAN 0.777778 0 1 -1
+      SOFFS 9.75
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {335F0509-F560-43E5-9471-AF1DBF7BE963}
+      <SOURCE WAVE
+        FILE "DT-05_160_Metal_Bass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 198
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {74652EB6-5E4B-4DCD-B7BE-4CC74BA5AA99}
+      IID 225
+      NAME DT-05_160_Metal_Bass_E.wav
+      VOLPAN 0.777778 0 1 -1
+      SOFFS 6
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ED935E8E-A27D-4719-A55E-2649F0E3669C}
+      <SOURCE WAVE
+        FILE "DT-05_160_Metal_Bass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 210
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0041F62D-14DA-4534-A4E8-EFA6FDEFEE43}
+      IID 226
+      NAME DT-05_160_Metal_Bass_E.wav
+      VOLPAN 0.777778 0 1 -1
+      SOFFS 6
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7FAA4AC6-6470-4B6C-A9B1-8466FF41610F}
+      <SOURCE WAVE
+        FILE "DT-05_160_Metal_Bass_E.wav"
+      >
+    >
+  >
+  <TRACK {635C03B2-E882-485A-BDCC-92ED28F9A29D}
+    NAME ""
+    PEAKCOL 33489151
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {635C03B2-E882-485A-BDCC-92ED28F9A29D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 71.25
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0ED5CD2E-B2BA-4FE7-95A8-208D098CD614}
+      IID 213
+      NAME "FX Synth Fall.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59C93ECC-D0CB-4C42-9416-A5A830F80DA9}
+      <SOURCE WAVE
+        FILE "FX Synth Fall.wav"
+      >
+    >
+    <ITEM
+      POSITION 95.25
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BEC98DCD-F056-4A30-AD01-EA32621B6DDD}
+      IID 215
+      NAME "FX Synth Fall.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11406A42-C18D-450C-B842-F88429182AEF}
+      <SOURCE WAVE
+        FILE "FX Synth Fall.wav"
+      >
+    >
+    <ITEM
+      POSITION 131.25
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {622B386B-7394-4985-8F42-1128F7315E68}
+      IID 77
+      NAME "FX Synth Fall.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EC4A84E4-1ABD-4F9F-8E8A-1B29C6BB7D77}
+      <SOURCE WAVE
+        FILE "FX Synth Fall.wav"
+      >
+    >
+    <ITEM
+      POSITION 138
+      SNAPOFFS 0
+      LENGTH 8.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6F005278-598B-4EEA-9FC9-461F3F3A6FC4}
+      IID 78
+      NAME "Vocal Roll Long Filtered.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0C0B71EC-929A-47E0-AF64-02A30D53DA3F}
+      <SOURCE WAVE
+        FILE "Vocal Roll Long Filtered.wav"
+      >
+    >
+    <ITEM
+      POSITION 179.25
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AA1AD388-2795-408B-A37B-069F42781A2F}
+      IID 227
+      NAME "FX Synth Fall.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7EEC2CEB-B0B7-429D-ABEC-6FA49745439C}
+      <SOURCE WAVE
+        FILE "FX Synth Fall.wav"
+      >
+    >
+    <ITEM
+      POSITION 203.25
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DFC49D1B-0E92-48E5-A00F-45886A99ED7D}
+      IID 228
+      NAME "FX Synth Fall.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2F6FA4F7-84DC-4606-80C0-C11E8E77A585}
+      <SOURCE WAVE
+        FILE "FX Synth Fall.wav"
+      >
+    >
+  >
+  <TRACK {A5DA87EF-F514-4F6D-80D9-58F7D8AFD8B7}
+    NAME ""
+    PEAKCOL 33489151
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A5DA87EF-F514-4F6D-80D9-58F7D8AFD8B7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 47.25
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {352E80D5-1579-4C1B-B346-A0E7DE82BC12}
+      IID 74
+      NAME "FX Synth Swell.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4C6B4C72-5012-4880-B080-AF6685D0D836}
+      <SOURCE WAVE
+        FILE "FX Synth Swell.wav"
+      >
+    >
+    <ITEM
+      POSITION 119.25
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {901AB809-3E1A-4D7D-9925-0ECEAC3FA8F4}
+      IID 74
+      NAME "FX Synth Swell.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {452C41BC-BAE2-46CA-B617-5E892B41D976}
+      <SOURCE WAVE
+        FILE "FX Synth Swell.wav"
+      >
+    >
+    <ITEM
+      POSITION 155.25
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4D9A52C7-D4A1-49D8-A8C1-ACFF793BE73A}
+      IID 229
+      NAME "FX Synth Swell.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2941385-2245-414F-B088-EE809518562A}
+      <SOURCE WAVE
+        FILE "FX Synth Swell.wav"
+      >
+    >
+    <ITEM
+      POSITION 227.25
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {958AAA2B-61F1-4F13-AE01-C066BB72563B}
+      IID 74
+      NAME "FX Synth Swell.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B071675A-8EB3-4CAD-AB94-DF77CA29090A}
+      <SOURCE WAVE
+        FILE "FX Synth Swell.wav"
+      >
+    >
+    <ITEM
+      POSITION 239.25
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4BCDAB52-A8A7-4C7F-AE73-97F5482CB201}
+      IID 74
+      NAME "FX Synth Swell.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71CB21B7-83AD-40D7-AC6D-1C9296F937D5}
+      <SOURCE WAVE
+        FILE "FX Synth Swell.wav"
+      >
+    >
+  >
+  <TRACK {E95D3B0D-463E-4E61-A580-532257A57D44}
+    NAME ""
+    PEAKCOL 33489151
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E95D3B0D-463E-4E61-A580-532257A57D44}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {082F27C5-84A7-4BE0-984B-B1A845E56160}
+      IID 75
+      NAME "Vocal Delay.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9507FD99-0C12-4670-952A-167545E5BD83}
+      <SOURCE WAVE
+        FILE "Vocal Delay.wav"
+      >
+    >
+    <ITEM
+      POSITION 60
+      SNAPOFFS 0
+      LENGTH 15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0165AF87-E0FC-47EA-8C48-EC1322591438}
+      IID 207
+      NAME "Vocal Delay.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3F849A46-968A-4263-8E00-F99DE2379136}
+      <SOURCE WAVE
+        FILE "Vocal Delay.wav"
+      >
+    >
+    <ITEM
+      POSITION 84
+      SNAPOFFS 0
+      LENGTH 15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D2564798-C462-45A8-9E02-E7B2B452A541}
+      IID 75
+      NAME "Vocal Delay.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13437561-7B43-442F-865A-D1B2C37C2A13}
+      <SOURCE WAVE
+        FILE "Vocal Delay.wav"
+      >
+    >
+    <ITEM
+      POSITION 108
+      SNAPOFFS 0
+      LENGTH 15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {759DF0A3-4CF6-4BAC-AB99-AD3BCAE5D2B4}
+      IID 75
+      NAME "Vocal Delay.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69E0D495-D0F1-41F1-B41D-7EB07B20F42B}
+      <SOURCE WAVE
+        FILE "Vocal Delay.wav"
+      >
+    >
+    <ITEM
+      POSITION 126
+      SNAPOFFS 0
+      LENGTH 15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {238235C3-6D7A-48C6-8102-4BF0B9CC1365}
+      IID 75
+      NAME "Vocal Delay.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46DC6D71-AD47-4AFC-812F-4785361456B2}
+      <SOURCE WAVE
+        FILE "Vocal Delay.wav"
+      >
+    >
+    <ITEM
+      POSITION 144
+      SNAPOFFS 0
+      LENGTH 15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {36BEBFAD-283A-40B9-ACAB-728E2A1DB89F}
+      IID 230
+      NAME "Vocal Delay.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7FEB420F-C951-44C3-B58E-EB73CFEDD814}
+      <SOURCE WAVE
+        FILE "Vocal Delay.wav"
+      >
+    >
+    <ITEM
+      POSITION 168
+      SNAPOFFS 0
+      LENGTH 15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6B47CC46-7E94-483A-9D9B-4F3C30E48F1A}
+      IID 231
+      NAME "Vocal Delay.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {475B3466-3B03-4D71-B225-774ACB6112E5}
+      <SOURCE WAVE
+        FILE "Vocal Delay.wav"
+      >
+    >
+    <ITEM
+      POSITION 192
+      SNAPOFFS 0
+      LENGTH 15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A5636305-2B77-40FE-8635-BF5EA85FC8C6}
+      IID 232
+      NAME "Vocal Delay.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {895EA154-B86B-471B-B881-3C198F252E7D}
+      <SOURCE WAVE
+        FILE "Vocal Delay.wav"
+      >
+    >
+    <ITEM
+      POSITION 216
+      SNAPOFFS 0
+      LENGTH 15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {100CAC80-B2D1-4E97-BED6-9370FD32CC05}
+      IID 75
+      NAME "Vocal Delay.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {733406B6-AB11-4285-A5AC-9D321EA71B19}
+      <SOURCE WAVE
+        FILE "Vocal Delay.wav"
+      >
+    >
+    <ITEM
+      POSITION 234
+      SNAPOFFS 0
+      LENGTH 15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C0B1F795-B47D-4AE7-8F42-D1CE3585D286}
+      IID 129
+      NAME "Vocal Delay.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F30630E8-FC1B-4E0C-8EF4-513358CA954D}
+      <SOURCE WAVE
+        FILE "Vocal Delay.wav"
+      >
+    >
+  >
+  <TRACK {B5FDAD98-4A62-4894-B4A7-31A6A4BA0285}
+    NAME ""
+    PEAKCOL 33489151
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B5FDAD98-4A62-4894-B4A7-31A6A4BA0285}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 2.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BFEB5D70-31CB-4866-88A7-CEE8B88F3B5C}
+      IID 126
+      NAME Vocal.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21BD9730-0A81-40F1-B558-C2121B02F909}
+      <SOURCE WAVE
+        FILE "Vocal.wav"
+      >
+    >
+    <ITEM
+      POSITION 90
+      SNAPOFFS 0
+      LENGTH 2.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {555CD7A0-ED8C-46E1-8FD0-791058A6C212}
+      IID 83
+      NAME Vocal.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81178C62-8AA8-4628-82DD-084B5D05773D}
+      <SOURCE WAVE
+        FILE "Vocal.wav"
+      >
+    >
+    <ITEM
+      POSITION 93
+      SNAPOFFS 0
+      LENGTH 2.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FE6C8D4B-632A-44FE-88D5-D93A4A9ABF4A}
+      IID 127
+      NAME Vocal.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B25D7088-341B-4C94-A23B-EBD0BFADD349}
+      <SOURCE WAVE
+        FILE "Vocal.wav"
+      >
+    >
+    <ITEM
+      POSITION 102
+      SNAPOFFS 0
+      LENGTH 2.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B95C7B8E-B219-4DEF-9CFB-360AD98DE329}
+      IID 83
+      NAME Vocal.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7AF49403-CCAE-4651-913C-302E9734DFD5}
+      <SOURCE WAVE
+        FILE "Vocal.wav"
+      >
+    >
+    <ITEM
+      POSITION 105
+      SNAPOFFS 0
+      LENGTH 2.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9A9C7887-2416-49C8-AB3E-91E4499B743B}
+      IID 83
+      NAME Vocal.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {653E07AA-61B0-4B1E-8BAD-F7663C542A77}
+      <SOURCE WAVE
+        FILE "Vocal.wav"
+      >
+    >
+    <ITEM
+      POSITION 142.5
+      SNAPOFFS 0
+      LENGTH 4.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FD675D5F-27E5-429D-B5B7-4F4BA31C4F61}
+      IID 237
+      NAME "FX Reverse Snare.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72B10835-6856-4D25-A485-A7D7C116F231}
+      <SOURCE WAVE
+        FILE "FX Reverse Snare.wav"
+      >
+    >
+    <ITEM
+      POSITION 198
+      SNAPOFFS 0
+      LENGTH 2.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {11EC1D4F-8BE5-47C1-914D-3F4083E587B8}
+      IID 233
+      NAME Vocal.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E0F86125-6909-4EE2-90B4-E85C8EA0F858}
+      <SOURCE WAVE
+        FILE "Vocal.wav"
+      >
+    >
+    <ITEM
+      POSITION 201
+      SNAPOFFS 0
+      LENGTH 2.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8160ED9F-3ABE-49BF-9AD6-2C97AC8A40D1}
+      IID 234
+      NAME Vocal.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04DE04E6-318C-48AB-B31B-9BE89F3E4918}
+      <SOURCE WAVE
+        FILE "Vocal.wav"
+      >
+    >
+    <ITEM
+      POSITION 210
+      SNAPOFFS 0
+      LENGTH 2.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {182C752B-EEC4-4264-81DB-EDB16F9AA720}
+      IID 235
+      NAME Vocal.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {33167311-4B1A-466B-92E9-D6B5E5F8B315}
+      <SOURCE WAVE
+        FILE "Vocal.wav"
+      >
+    >
+    <ITEM
+      POSITION 213
+      SNAPOFFS 0
+      LENGTH 2.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3C07CBE2-AB0F-432B-98B9-386FB08D41A7}
+      IID 236
+      NAME Vocal.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DDD3C69F-6EEF-422E-A030-D755F1FB909F}
+      <SOURCE WAVE
+        FILE "Vocal.wav"
+      >
+    >
+  >
+>

@@ -1,0 +1,2376 @@
+<REAPER_PROJECT 0.1 "5.62/x64" 1511090963
+  <NOTES 1
+    |New Loops - Trap Monsters
+    |
+    |Kit 04
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 200
+  ZOOM 6.49054715188748 0 0
+  VZOOMEX 4
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "..\!audio\\18. Storyboard v2.mp3"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    bDNwbYAAAAABAAAABQAAAP////8EAAAAgAAAAAAAAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 150 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 1 -1
+    VIS 0 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+    PT 0.000000000000 150.0000000000 1
+  >
+  <MASTERVOLENV2
+    ACT 1 -1
+    VIS 1 1 1
+    LANEHEIGHT 51 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+    PT 0 0.58344586 0
+    PT 4.31769569 0.87344586 0
+    PT 179.2 0.87344586 0 0 1
+    PT 207.19710672 0 0 0 1
+  >
+  MARKER 1 0 Intro 0 0 1 R
+  MARKER 2 25.6 "Theme 1" 0 0 1 R
+  MARKER 3 89.6 Brodge 0 0 1 R
+  MARKER 4 115.2 "Theme 1" 0 0 1 R
+  MARKER 5 179.2 Outro 0 0 1 R
+  <PROJBAY
+  >
+  <TRACK {ED18F2B9-D0EC-4CF5-821B-E8D0226DB0E4}
+    NAME Drums
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {ED18F2B9-D0EC-4CF5-821B-E8D0226DB0E4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {722F88A1-411C-4C0C-BE72-26D488496975}
+    NAME ""
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {722F88A1-411C-4C0C-BE72-26D488496975}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6BF6EC04-C388-4ECD-85C9-6680378ADAA8}
+      IID 13
+      NAME TM1_150_Tambourine-Intro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12E93FD9-DD88-408B-BDD2-1EAD00BDE510}
+      <SOURCE WAVE
+        FILE "TM1_150_Tambourine-Intro.wav"
+      >
+    >
+    <ITEM
+      POSITION 19.2
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {72209CE7-419D-4D70-9751-646700E859B5}
+      IID 68
+      NAME TM1_150_Snare-Roll-Short.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5300D199-54C9-4168-9A8D-B11A36DB642C}
+      <SOURCE WAVE
+        FILE "TM1_150_Snare-Roll-Short.wav"
+      >
+    >
+    <ITEM
+      POSITION 172.8
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {117EB6F6-9D8E-4106-805D-54754F3CD026}
+      IID 109
+      NAME TM1_150_Snare-Roll-Short.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FEFEE13C-C3CC-4AFF-B587-48121805419D}
+      <SOURCE WAVE
+        FILE "TM1_150_Snare-Roll-Short.wav"
+      >
+    >
+  >
+  <TRACK {E0AA9B16-D7BD-4556-80C6-85D4AD5C0339}
+    NAME ""
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E0AA9B16-D7BD-4556-80C6-85D4AD5C0339}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 24.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {569AB2AA-492C-4DBD-A9DB-F304F160C872}
+      IID 14
+      NAME TM1_150_Hi-Hat-Intro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98DDDD2D-F35A-4F6B-9938-D933129085F8}
+      <SOURCE WAVE
+        FILE "TM1_150_Hi-Hat-Intro.wav"
+      >
+    >
+    <ITEM
+      POSITION 25.59999999997672
+      SNAPOFFS 0
+      LENGTH 6.40000000002328
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 4
+      IGUID {51072AD2-190C-42CE-AFB3-2ED627650568}
+      IID 22
+      NAME TM1_150_Drums-Full-Part-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05A60549-3F45-48E5-956E-308870189197}
+      <SOURCE WAVE
+        FILE "TM1_150_Drums-Full-Part-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 38.39999999997671
+      SNAPOFFS 0
+      LENGTH 24.00000000002329
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D24B21C2-0CCB-4C45-9FF6-E85E17273226}
+      IID 34
+      NAME TM1_150_Drums-Full-Part-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C771DCE9-E1EE-403C-B15A-0EB681E8436F}
+      <SOURCE WAVE
+        FILE "TM1_150_Drums-Full-Part-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 64
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 15
+      IGUID {9E44AD1E-BE36-48E4-BCDC-9F895B5E935E}
+      IID 231
+      NAME TM1_150_Drums-Full-Part-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8079CBC0-4264-4182-A3F9-2D4094E9718C}
+      <SOURCE WAVE
+        FILE "TM1_150_Drums-Full-Part-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 89.6
+      SNAPOFFS 0
+      LENGTH 24.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9E286CD2-A44B-4442-9281-72DB01E4799A}
+      IID 74
+      NAME TM1_150_Hi-Hat-Intro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2CFEE580-D377-4B82-8015-77F8C0D5DA12}
+      <SOURCE WAVE
+        FILE "TM1_150_Hi-Hat-Intro.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.2
+      SNAPOFFS 0
+      LENGTH 6.40000000002328
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 10
+      IGUID {31AB7470-DB93-4AF0-ACF9-A1F6992FC414}
+      IID 187
+      NAME TM1_150_Drums-Full-Part-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4230BD66-62D2-422C-9142-7004F155CF0F}
+      <SOURCE WAVE
+        FILE "TM1_150_Drums-Full-Part-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 128
+      SNAPOFFS 0
+      LENGTH 24.00000000002323
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3DA34E13-F265-4849-88A9-2F83A813E3B7}
+      IID 188
+      NAME TM1_150_Drums-Full-Part-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF9BD8E7-A18C-4508-BBE3-A56BCC7009FD}
+      <SOURCE WAVE
+        FILE "TM1_150_Drums-Full-Part-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 153.60000000002327
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 14
+      IGUID {DF11AADC-C9B9-4BF9-BEE8-268FD53887D3}
+      IID 189
+      NAME TM1_150_Drums-Full-Part-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15AFD4C2-CA20-4FB4-9B4E-1AB213286C71}
+      <SOURCE WAVE
+        FILE "TM1_150_Drums-Full-Part-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 179.2
+      SNAPOFFS 0
+      LENGTH 6.40000000002328
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 7
+      IGUID {5B44FE74-F1BB-4D0A-932E-FA1E448BAD43}
+      IID 110
+      NAME TM1_150_Drums-Full-Part-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BE8D222-1859-422A-9A03-D405997D4263}
+      <SOURCE WAVE
+        FILE "TM1_150_Drums-Full-Part-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 192
+      SNAPOFFS 0
+      LENGTH 12.79999999997671
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A73A97AE-D5CB-4983-A890-7F88679D608A}
+      IID 111
+      NAME TM1_150_Drums-Full-Part-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B1E92E16-A783-4756-B044-121590B1FC70}
+      <SOURCE WAVE
+        FILE "TM1_150_Drums-Full-Part-1.wav"
+      >
+    >
+  >
+  <TRACK {C5D1036A-0FCC-4267-9A70-FCDE78E608A0}
+    NAME ""
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C5D1036A-0FCC-4267-9A70-FCDE78E608A0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12.8
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AE05F9A9-A81F-48D3-9288-50663CEF4AB4}
+      IID 8
+      NAME TM1_150_Drums-Intro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6AE3DD6D-E61B-469F-85C0-9B156F4FB613}
+      <SOURCE WAVE
+        FILE "TM1_150_Drums-Intro.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.99999999997672
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 4
+      IGUID {92DCE8DC-642D-4E4E-BBAC-795A0D6642D6}
+      IID 31
+      NAME TM1_150_Drums-Full-Part-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9BB6B06F-9921-474F-9846-54F3EBD7AE0F}
+      <SOURCE WAVE
+        FILE "TM1_150_Drums-Full-Part-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 102.4
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {785A8CCD-F52C-4FE5-A3EA-00DF7D9E4E17}
+      IID 67
+      NAME TM1_150_Snare-Roll-Long.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1AC748D5-B83B-4C7C-AC4B-11D6CF0D4F5F}
+      <SOURCE WAVE
+        FILE "TM1_150_Snare-Roll-Long.wav"
+      >
+    >
+    <ITEM
+      POSITION 121.6
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 10
+      IGUID {6AB4FECD-713E-425C-AF5C-DC415498B3EA}
+      IID 190
+      NAME TM1_150_Drums-Full-Part-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7732BE53-2277-4575-8EC6-74088D5A2103}
+      <SOURCE WAVE
+        FILE "TM1_150_Drums-Full-Part-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 185.6
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 7
+      IGUID {2B8F107F-72E8-4CF2-A283-748565D79B94}
+      IID 112
+      NAME TM1_150_Drums-Full-Part-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8DE3524D-F4FB-4F7B-BBD5-D21E7FD06DBF}
+      <SOURCE WAVE
+        FILE "TM1_150_Drums-Full-Part-2.wav"
+      >
+    >
+  >
+  <TRACK {739BE82A-F72F-4161-AAF0-9F2453640724}
+    NAME Bass
+    PEAKCOL 21004543
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {739BE82A-F72F-4161-AAF0-9F2453640724}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {F092CF93-70AB-4E7D-B45E-D102DA23432B}
+    NAME ""
+    PEAKCOL 21004543
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F092CF93-70AB-4E7D-B45E-D102DA23432B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 25.59999999997672
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 4
+      IGUID {753D28E7-1834-4109-AA3D-53109C6533AA}
+      IID 23
+      NAME TM1_150_Bass-Part-1_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9135BED-E92D-4DDB-9A06-95E7518C76B5}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-1_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 38.4
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 4
+      IGUID {A1DF3907-5DC7-4810-98C3-7F4BAA64EE9B}
+      IID 26
+      NAME TM1_150_Bass-Part-1_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {200D642F-79D3-4829-AD4B-C15D5A0F3DA2}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-1_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 51.19999999997672
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 4
+      IGUID {0882FA7D-67B5-4E44-9B57-97A04446917B}
+      IID 29
+      NAME TM1_150_Bass-Part-1_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98C7EDD0-EFCF-4EA5-8BE2-C25CB459FBDA}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-1_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 64.00000000002338
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 15
+      IGUID {CEDC1CE7-C390-4BC9-A4F5-DC84BA1EDFD4}
+      IID 232
+      NAME TM1_150_Bass-Part-1_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D88A40F0-C16B-44D1-86F6-067EFB0F46E9}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-1_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 76.8
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 15
+      IGUID {BEE2D2AD-C14E-4B41-AE71-5D99666B3387}
+      IID 233
+      NAME TM1_150_Bass-Part-1_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8EA4B762-341E-4007-80A9-6BDCF3798B75}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-1_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.2
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 10
+      IGUID {4A4ABC62-406B-49EE-9440-4D9B36B7AFFE}
+      IID 191
+      NAME TM1_150_Bass-Part-1_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {590D8F17-EF33-451F-9528-7DC058C3C4F7}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-1_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 128.00000000002328
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 10
+      IGUID {576594A2-A74D-4358-93D8-A794F56F19F0}
+      IID 192
+      NAME TM1_150_Bass-Part-1_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {33B0114A-DAB6-49AF-AEFC-E48037F9CAFE}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-1_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 140.8
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 10
+      IGUID {9B23D57B-AF73-4271-BE79-3B77647FCF9D}
+      IID 193
+      NAME TM1_150_Bass-Part-1_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4F45C7BE-71DC-4F3A-A697-37ABC37FA065}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-1_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 153.60000000004666
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 14
+      IGUID {910A9310-68D9-4DA3-9696-7053BC1DFC5B}
+      IID 194
+      NAME TM1_150_Bass-Part-1_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {091E4E36-507D-48B4-A3DC-A907269A78B7}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-1_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 166.40000000002328
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 14
+      IGUID {E1EF901C-CC6B-4DFC-9729-56008B714B8B}
+      IID 195
+      NAME TM1_150_Bass-Part-1_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59D8D2A6-CADF-49BC-BBEF-E8E05E6A9CCD}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-1_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 179.2
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 7
+      IGUID {18DBC9B9-8265-4756-8714-FC9665BB099C}
+      IID 113
+      NAME TM1_150_Bass-Part-1_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2679BCCF-84BA-41E2-B9D3-1D92F9023BBF}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-1_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 192.00000000002328
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 7
+      IGUID {EDF48FE7-13E0-44EB-8A83-E3AFA4AFA324}
+      IID 114
+      NAME TM1_150_Bass-Part-1_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32B5997F-D07C-42E4-A29D-6D091C4883AB}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-1_E.wav"
+      >
+    >
+  >
+  <TRACK {04CDEA13-05D4-468B-B5A8-C758B84B9EB7}
+    NAME ""
+    PEAKCOL 21004543
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {04CDEA13-05D4-468B-B5A8-C758B84B9EB7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 32
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 4
+      IGUID {4A1B52D2-2B2E-494B-8701-127FEF1F80EB}
+      IID 25
+      NAME TM1_150_Bass-Part-2_C.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {939DFC9F-2997-4353-9FD6-209C28DF1C66}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-2_C.wav"
+      >
+    >
+    <ITEM
+      POSITION 44.80000000002328
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 4
+      IGUID {54D435AE-A020-4C52-B9DC-8A9A7825ECC8}
+      IID 27
+      NAME TM1_150_Bass-Part-2_C.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4A08240-9E54-4BFD-84E9-AD55FFDEDA71}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-2_C.wav"
+      >
+    >
+    <ITEM
+      POSITION 57.6
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A5E687FC-E78D-412C-AC1F-42652DD020C6}
+      IID 30
+      NAME TM1_150_Bass-Part-2_C.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {477AB32B-F092-40B9-9C13-79EC8206BC3C}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-2_C.wav"
+      >
+    >
+    <ITEM
+      POSITION 70.40000000004666
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 15
+      IGUID {12C572B5-3E10-4FAC-923D-DC5897B04228}
+      IID 234
+      NAME TM1_150_Bass-Part-2_C.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {592811E9-25C4-4D63-B73D-2BE939BF2986}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-2_C.wav"
+      >
+    >
+    <ITEM
+      POSITION 83.20000000002328
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 15
+      IGUID {087DFC8B-83AC-40DA-AD04-F7C2D3F3433B}
+      IID 235
+      NAME TM1_150_Bass-Part-2_C.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2F5D0433-31B1-4136-952A-7AB14435693F}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-2_C.wav"
+      >
+    >
+    <ITEM
+      POSITION 121.60000000002329
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 10
+      IGUID {5B292739-1C18-41FD-A63E-CA9E340709B5}
+      IID 196
+      NAME TM1_150_Bass-Part-2_C.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A01E90B4-D7EE-4C44-9CBC-03410032D5AC}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-2_C.wav"
+      >
+    >
+    <ITEM
+      POSITION 134.40000000004656
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 10
+      IGUID {BA7C3A8C-5F3D-42A9-9D08-0809B1F5A7A9}
+      IID 197
+      NAME TM1_150_Bass-Part-2_C.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72E7A7BC-08C3-4F98-8EF9-3BCB7DF35DA9}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-2_C.wav"
+      >
+    >
+    <ITEM
+      POSITION 147.20000000002329
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AA5D8579-45A1-4969-A80B-8BF7034EE90E}
+      IID 198
+      NAME TM1_150_Bass-Part-2_C.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF1FD00D-67FC-44BA-A6E1-EE4B88B43879}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-2_C.wav"
+      >
+    >
+    <ITEM
+      POSITION 160.00000000006995
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 14
+      IGUID {43898057-B64B-4ADE-BF2C-60CFB5862AB9}
+      IID 199
+      NAME TM1_150_Bass-Part-2_C.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EDB36185-BA20-4C1A-BED7-F75AF053A0D7}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-2_C.wav"
+      >
+    >
+    <ITEM
+      POSITION 172.80000000004657
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 14
+      IGUID {90FFFF51-F334-4403-9327-517E69089541}
+      IID 200
+      NAME TM1_150_Bass-Part-2_C.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C21144B-6535-405F-9DDD-841B007780EE}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-2_C.wav"
+      >
+    >
+    <ITEM
+      POSITION 185.60000000002327
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 7
+      IGUID {F04B8FA0-D1AA-409E-BCD8-3CBDD051ACFF}
+      IID 115
+      NAME TM1_150_Bass-Part-2_C.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0136111D-137F-494C-ACAB-01346FDD1C0A}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-2_C.wav"
+      >
+    >
+    <ITEM
+      POSITION 198.40000000004656
+      SNAPOFFS 0
+      LENGTH 6.39999999993015
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 7
+      IGUID {16691370-3508-4CFA-B309-007CA6FA784D}
+      IID 116
+      NAME TM1_150_Bass-Part-2_C.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C4DC60E-F179-4BC5-A105-732465D4B383}
+      <SOURCE WAVE
+        FILE "TM1_150_Bass-Part-2_C.wav"
+      >
+    >
+  >
+  <TRACK {60CECE64-0450-4999-9377-1AAFB8D7BB1A}
+    NAME Synth
+    PEAKCOL 33521664
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {60CECE64-0450-4999-9377-1AAFB8D7BB1A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {83131AFE-4403-431F-99FB-2E168C5ADA13}
+    NAME ""
+    PEAKCOL 33521664
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {83131AFE-4403-431F-99FB-2E168C5ADA13}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12.8
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8676F444-EE27-438E-B14E-566209A9E935}
+      IID 10
+      NAME TM1_150_Festival-Pluck-Intro-Filtered_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96B99163-7958-4711-837F-318D2179D594}
+      <SOURCE WAVE
+        FILE "TM1_150_Festival-Pluck-Intro-Filtered_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 38.40000000002328
+      SNAPOFFS 0
+      LENGTH 25.59999999997672
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {81A82E18-0242-4117-8AD4-9D353F62F69B}
+      IID 36
+      NAME TM1_150_Festival-Pluck_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2610B37-EC92-49D2-8EBB-97BD1F80EC06}
+      <SOURCE WAVE
+        FILE "TM1_150_Festival-Pluck_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 64.00000000004667
+      SNAPOFFS 0
+      LENGTH 25.59999999997672
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 15
+      IGUID {944EBC93-928D-478A-8A3D-0CA0D9FA63FF}
+      IID 236
+      NAME TM1_150_Festival-Pluck_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA8DFF54-1330-46B0-ACA9-B2D7C2BA8C18}
+      <SOURCE WAVE
+        FILE "TM1_150_Festival-Pluck_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 128.00000000004655
+      SNAPOFFS 0
+      LENGTH 25.59999999997672
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4D2415D9-90BA-46E4-AE23-111CC8E1ADE4}
+      IID 201
+      NAME TM1_150_Festival-Pluck_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10D97285-DC4C-4719-B133-3CBEA8769B03}
+      <SOURCE WAVE
+        FILE "TM1_150_Festival-Pluck_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 153.60000000006994
+      SNAPOFFS 0
+      LENGTH 25.59999999997675
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 14
+      IGUID {499634A3-AFF3-4811-B315-1D91C6058498}
+      IID 202
+      NAME TM1_150_Festival-Pluck_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FDAB85AA-95E8-4E8B-9ACF-FD6BC4473726}
+      <SOURCE WAVE
+        FILE "TM1_150_Festival-Pluck_E.wav"
+      >
+    >
+  >
+  <TRACK {A6A6F726-AD7E-4A49-A9B3-328C700F8FEE}
+    NAME ""
+    PEAKCOL 33521664
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A6A6F726-AD7E-4A49-A9B3-328C700F8FEE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 25.59999999995343
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 4
+      IGUID {FAF32C2D-843F-4B76-B9A7-C815BEC4F51B}
+      IID 28
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7FEAC8D-D55A-4725-930C-6BEAD0BBCBF6}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 38.4
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 4
+      IGUID {24A4CA44-BD5A-418C-AC48-3DFC950B65C1}
+      IID 37
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C88AD4BF-F6AB-47BE-B3A8-20E0D996D9F8}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 51.19999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 4
+      IGUID {8350EBB4-A0A1-40E9-99D2-C44D63C7753B}
+      IID 38
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {383C587E-DC2D-4F56-91A1-EA0B351FBA29}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 64.00000000002338
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 15
+      IGUID {7B37ACBC-ADEC-42B1-B715-3A1F2BE92CDB}
+      IID 237
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8EE1915E-498B-40EF-8741-0CE551574AE5}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 68.79999999997672
+      SNAPOFFS 0
+      LENGTH 3.19999999995343
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 15
+      IGUID {7512AAB5-0B1F-4392-B5E9-ACF0A00D17B6}
+      IID 238
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.80000000004655
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1E28A0C-5BA5-41C9-B41A-BBE1B4261295}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 76.8
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 15
+      IGUID {EF9C237A-F9A5-42A0-9F5F-EC8705C69DDA}
+      IID 239
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1098D691-CCAA-4484-BD91-7E1C61E5F00A}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 81.59999999997672
+      SNAPOFFS 0
+      LENGTH 3.19999999995343
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 15
+      IGUID {292565BD-DF50-43F4-8F7F-ECBCB94B22E7}
+      IID 240
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.80000000004655
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0D301DA-BE40-4995-A8C4-F515A3C4F57C}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 89.6
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {02BFF48F-4BB1-4912-90AF-8F927B0DC008}
+      IID 41
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E59AF7FB-8BA3-4CD7-B4DC-1E19537C3886}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.19999999997671
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 10
+      IGUID {3BEAD949-DC1F-483E-924C-1BC0A76AA40A}
+      IID 203
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F45D1DB0-097F-44B4-93C2-A914A03ED703}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 128.00000000002328
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 10
+      IGUID {C70A5C8E-4981-40AC-817C-E0F25279BA62}
+      IID 204
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B090E01-6DF9-4BA1-8140-CA37DD7A01B7}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 140.8
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 10
+      IGUID {F84CC4DA-5241-4A27-BF79-9C5EC6D84533}
+      IID 205
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A32340E1-ABFC-4269-916C-725A012EABF1}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 153.60000000004666
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 14
+      IGUID {3F90C5C8-EB19-483E-8442-624CB3D5F7A5}
+      IID 206
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB20243D-5DFD-4977-AB41-05865AA391C8}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 158.4
+      SNAPOFFS 0
+      LENGTH 3.19999999995343
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 14
+      IGUID {21542C76-C2F1-4AFE-A2C6-DEDFF39C328E}
+      IID 217
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.80000000004655
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8DEE87FE-9D8F-4734-827C-6EC3CFF4C97E}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 166.40000000002328
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 14
+      IGUID {6E4C3E33-17C1-405B-B51A-2AFF5CBCF252}
+      IID 207
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B118A363-5C94-461D-8595-349AAD38BAFD}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 171.2
+      SNAPOFFS 0
+      LENGTH 3.19999999995343
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 14
+      IGUID {C40C492C-1942-47F9-A950-E7C2A1C8FBF6}
+      IID 218
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.80000000004655
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3F7BF5F-64A5-4148-9224-0DB9111905F0}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 179.19999999997671
+      SNAPOFFS 0
+      LENGTH 25.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FE1FAFB6-2B43-4980-9007-22341F24BD7B}
+      IID 118
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D397A92E-7EC7-4306-8F97-77DBC2E3816C}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 204.79999999997671
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 8
+      IGUID {CD0B2593-905D-4A81-ABAC-1BB250255512}
+      IID 120
+      NAME TM1_150_Synth_Brass_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC236ED6-8E77-4FEF-97BC-77861A7F54D2}
+      <SOURCE WAVE
+        FILE "TM1_150_Synth_Brass_E.wav"
+      >
+    >
+  >
+  <TRACK {668AD4AA-778A-41D2-8E0F-8CE40DF2EFD5}
+    NAME ""
+    PEAKCOL 33521664
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {668AD4AA-778A-41D2-8E0F-8CE40DF2EFD5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 89.6
+      SNAPOFFS 0
+      LENGTH 25.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 2.41401 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9850231D-A90E-44CD-8BD2-DB14AF575EBA}
+      IID 65
+      NAME TM1_150_Pulse-Synth-Arp_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {350497FE-5EBE-44E7-9FC0-6226DF7FDBA1}
+      <SOURCE WAVE
+        FILE "TM1_150_Pulse-Synth-Arp_E.wav"
+      >
+    >
+  >
+  <TRACK {CDC544BC-1946-4168-866F-30C18AE513C2}
+    NAME FX
+    PEAKCOL 33489151
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CDC544BC-1946-4168-866F-30C18AE513C2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {635C03B2-E882-485A-BDCC-92ED28F9A29D}
+    NAME ""
+    PEAKCOL 33489151
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {635C03B2-E882-485A-BDCC-92ED28F9A29D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 1
+      IGUID {F0F0EFEC-AE58-43C9-A5A3-EC78EA899BEA}
+      IID 15
+      NAME TM1_150_Vocal-Yar-Full.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F55EDA38-B484-4423-B5DC-A6BE5668D9F0}
+      <SOURCE WAVE
+        FILE "TM1_150_Vocal-Yar-Full.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.4
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 1
+      IGUID {70CB3B98-F1D7-4302-9C4F-82FF737EAF46}
+      IID 21
+      NAME TM1_150_Vocal-Yar-Full.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E257CF1-4CF1-4CD0-B033-F5AAF09F7FEC}
+      <SOURCE WAVE
+        FILE "TM1_150_Vocal-Yar-Full.wav"
+      >
+    >
+    <ITEM
+      POSITION 19.2
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 1
+      IGUID {79BD8599-3F7A-49F5-8BB7-17BA880A8ACB}
+      IID 17
+      NAME TM1_150_Vocal-Yar-Full.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F35B01AA-18D9-440F-849B-1043CC4993D3}
+      <SOURCE WAVE
+        FILE "TM1_150_Vocal-Yar-Full.wav"
+      >
+    >
+    <ITEM
+      POSITION 51.19999999997672
+      SNAPOFFS 0
+      LENGTH 12.80000000002328
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2035E95F-A08E-454A-9554-F89BE2A02A7C}
+      IID 24
+      NAME TM1_150_Vocal-Yar-Full.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.79999999997672
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4719C9F0-DC8B-4EAC-8B78-1DA147E035F1}
+      <SOURCE WAVE
+        FILE "TM1_150_Vocal-Yar-Full.wav"
+      >
+    >
+    <ITEM
+      POSITION 76.8
+      SNAPOFFS 0
+      LENGTH 12.80000000002329
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 15
+      IGUID {13E903C1-08FC-432C-8ED8-59E5B03461B1}
+      IID 241
+      NAME TM1_150_Vocal-Yar-Full.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.79999999997672
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6574EDA0-922C-4672-A1B2-295391DC018E}
+      <SOURCE WAVE
+        FILE "TM1_150_Vocal-Yar-Full.wav"
+      >
+    >
+    <ITEM
+      POSITION 89.6
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 3
+      IGUID {1BB0EEB1-BE5B-4B5C-B7D3-4E5BCC39D20C}
+      IID 79
+      NAME TM1_150_Vocal-Yar-Full.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {539A74E2-E0BB-4D05-842B-634805441136}
+      <SOURCE WAVE
+        FILE "TM1_150_Vocal-Yar-Full.wav"
+      >
+    >
+    <ITEM
+      POSITION 96
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 3
+      IGUID {44551BD3-1FC5-4D5A-AF6F-021ED5AE4DA5}
+      IID 80
+      NAME TM1_150_Vocal-Yar-Full.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {576C4B93-12CF-4209-8755-B2C36F82929F}
+      <SOURCE WAVE
+        FILE "TM1_150_Vocal-Yar-Full.wav"
+      >
+    >
+    <ITEM
+      POSITION 108.8
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 3
+      IGUID {B0D40077-4A49-4F97-931F-AB2110115D45}
+      IID 81
+      NAME TM1_150_Vocal-Yar-Full.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D6AE3451-DC22-4E01-A4AF-A8AA7C1AC615}
+      <SOURCE WAVE
+        FILE "TM1_150_Vocal-Yar-Full.wav"
+      >
+    >
+    <ITEM
+      POSITION 140.8
+      SNAPOFFS 0
+      LENGTH 12.80000000002326
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A0D2BAC5-3880-499B-8D82-8259D4ED90E8}
+      IID 208
+      NAME TM1_150_Vocal-Yar-Full.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.79999999997672
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6D15817-6730-4568-B0D5-F954A852DD30}
+      <SOURCE WAVE
+        FILE "TM1_150_Vocal-Yar-Full.wav"
+      >
+    >
+    <ITEM
+      POSITION 166.40000000002328
+      SNAPOFFS 0
+      LENGTH 12.80000000002329
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 14
+      IGUID {5A96B9B2-88E6-434A-9159-AF3828122927}
+      IID 209
+      NAME TM1_150_Vocal-Yar-Full.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.79999999997672
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06F87745-CC30-41D0-B6D7-B097CF2D1DEA}
+      <SOURCE WAVE
+        FILE "TM1_150_Vocal-Yar-Full.wav"
+      >
+    >
+    <ITEM
+      POSITION 192.00000000002328
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {974BCEB3-7C09-4358-85D0-EA0D0A2F33F6}
+      IID 130
+      NAME TM1_150_Vocal-Yar-Full.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF1D3393-1B5E-4ADF-A934-908014A1CA01}
+      <SOURCE WAVE
+        FILE "TM1_150_Vocal-Yar-Full.wav"
+      >
+    >
+    <ITEM
+      POSITION 198.40000000004656
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {412F4E2E-DB05-4ECA-A8F9-02810BAD152A}
+      IID 131
+      NAME TM1_150_Vocal-Yar-Full.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6145313D-6DAD-4E55-890C-B885E8697ECE}
+      <SOURCE WAVE
+        FILE "TM1_150_Vocal-Yar-Full.wav"
+      >
+    >
+    <ITEM
+      POSITION 204.79999999997671
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EBA1EDEC-3086-4EBB-8750-4AA329EDB2FB}
+      IID 132
+      NAME TM1_150_Vocal-Yar-Full.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52CDD61F-8AD5-4D9D-8B18-FA0B985812EF}
+      <SOURCE WAVE
+        FILE "TM1_150_Vocal-Yar-Full.wav"
+      >
+    >
+  >
+  <TRACK {A5DA87EF-F514-4F6D-80D9-58F7D8AFD8B7}
+    NAME ""
+    PEAKCOL 33489151
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A5DA87EF-F514-4F6D-80D9-58F7D8AFD8B7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 0.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 1
+      IGUID {4C2B03E4-EEB2-4DF7-9367-2D6E51600559}
+      IID 16
+      NAME TM1_150_Vocal-Yar-Full.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 5.6
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {988A99B5-DBF5-4A00-8589-B79A83F93062}
+      <SOURCE WAVE
+        FILE "TM1_150_Vocal-Yar-Full.wav"
+      >
+    >
+    <ITEM
+      POSITION 19.2
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 2.663241 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 1
+      IGUID {9EAC39E4-982B-4DB3-88F9-8520A588E873}
+      IID 35
+      NAME TM1_150_Noise-Up.wav
+      VOLPAN 0.692308 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80DD678D-FA63-4F5D-87D6-6B30E8961F5C}
+      <SOURCE WAVE
+        FILE "TM1_150_Noise-Up.wav"
+      >
+    >
+    <ITEM
+      POSITION 101.6
+      SNAPOFFS 0
+      LENGTH 0.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 3
+      IGUID {ADDFEFDB-C9C3-49D6-94B5-7F7C5D8E6067}
+      IID 82
+      NAME TM1_150_Vocal-Yar-Full.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 5.6
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {842E3B34-9513-4440-B961-11F6295D52EC}
+      <SOURCE WAVE
+        FILE "TM1_150_Vocal-Yar-Full.wav"
+      >
+    >
+    <ITEM
+      POSITION 108.8
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 2.663241 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 3
+      IGUID {6BBA88D1-2A84-4581-BF37-E67CCF1C334A}
+      IID 83
+      NAME TM1_150_Noise-Up.wav
+      VOLPAN 0.692308 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42665EB0-D7B7-4229-8A90-F6D40E476A7D}
+      <SOURCE WAVE
+        FILE "TM1_150_Noise-Up.wav"
+      >
+    >
+  >
+  <TRACK {E95D3B0D-463E-4E61-A580-532257A57D44}
+    NAME ""
+    PEAKCOL 33489151
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E95D3B0D-463E-4E61-A580-532257A57D44}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 28.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6C0C98D4-4157-4104-93DF-859A7F973CB9}
+      IID 19
+      NAME TM1_150_Warm-Chord-Filtered_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4BC88B04-6559-4608-8ADB-D230EE302663}
+      <SOURCE WAVE
+        FILE "TM1_150_Warm-Chord-Filtered_E.wav"
+      >
+    >
+    <ITEM
+      POSITION 89.6
+      SNAPOFFS 0
+      LENGTH 28.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {27BFB9EE-0CBC-4D67-B2FE-67743360E6D3}
+      IID 85
+      NAME TM1_150_Warm-Chord-Filtered_E.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {503C8FDD-8989-4650-9C32-B800E91901F7}
+      <SOURCE WAVE
+        FILE "TM1_150_Warm-Chord-Filtered_E.wav"
+      >
+    >
+  >
+>

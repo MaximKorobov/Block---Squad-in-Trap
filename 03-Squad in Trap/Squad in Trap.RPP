@@ -1,0 +1,2468 @@
+<REAPER_PROJECT 0.1 "5.62/x64" 1511085799
+  <NOTES 0
+    |Prime Loops - Neuro Trap
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 143.2
+  ZOOM 14.41117064448732 819 0
+  VZOOMEX 4
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "..\!audio\03. Squad in Trap - v4.mp3"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    bDNwbYAAAAABAAAABQAAAP////8EAAAAgAAAAAAAAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 150 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0.27756246169565 0.34695307711956
+  SELECTION2 0.27756246169565 0.34695307711956
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERFXLIST
+    WNDRECT 436 197 983 578
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+    BYPASS 0 0 0
+    <VST "VST: EZmix (Toontrack)" EZmix.dll 0 "" 1702522232
+      eG16Ze5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAlAAAAAEAAAAAABAA
+      ViAxClJlcG9ydExhdGVuY3kgMQpQcmVzZXQgIkNvcmUyIiAiVWxmL01hc3Rlci9NYXN0ZXIgTGltaXRlciBTdGVyZW8gRW5oYW5jZXIiClNoYXBlIDAuMTEwMTY2CkJs
+      ZW5kIDAuMjQyOTkxCkxldmVsIDAuNzYxNzI3CklucHV0IDAuNzUKSW5wdXRMb2NrIDAKAA==
+      AEJhc2ljABAAAAA=
+    >
+    PRESETNAME Basic
+    FLOATPOS 0 0 0 0
+    FXID {F87E4DE6-EAC3-4664-AFC5-BAFC86576FFD}
+    WAK 0
+  >
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 0 Intro 0 0 1 R
+  MARKER 2 12.791955456 "Main 1" 0 0 1 R
+  MARKER 3 64 Break 0 0 1 R
+  MARKER 4 89.6 "Main 2" 0 0 1 R
+  MARKER 5 140.8 End 0 0 1 R
+  <PROJBAY
+  >
+  <TRACK {40934591-C964-4B75-9958-0A533C4782DF}
+    NAME Drums
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {40934591-C964-4B75-9958-0A533C4782DF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 1003 573
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+  >
+  <TRACK {9804917C-C336-41C3-8F5E-FD84BFAD97DB}
+    NAME ""
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9804917C-C336-41C3-8F5E-FD84BFAD97DB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 376 155 643 340
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 12.8
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {386390A0-5B9B-4584-8714-889D9D22946E}
+      IID 4
+      NAME Bpm150_BombTrap_Full01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37FA8F69-FF96-48C2-BF1B-3B148B0A2424}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_Full01.wav"
+      >
+    >
+    <ITEM
+      POSITION 25.6
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4D634234-5446-4064-9E70-05F3483D24FF}
+      IID 4
+      NAME Bpm150_BombTrap_Full01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58EB5CD8-D379-47E9-9B77-49C3421F81C3}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_Full01.wav"
+      >
+    >
+    <ITEM
+      POSITION 38.8
+      SNAPOFFS 0
+      LENGTH 12.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CE0E0E37-FF57-44EA-A049-34876F2CA82C}
+      IID 4
+      NAME Bpm150_BombTrap_Full01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57040015-8DD5-4498-AEC3-9138C47C58F8}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_Full01.wav"
+      >
+    >
+    <ITEM
+      POSITION 76.8
+      SNAPOFFS 0
+      LENGTH 0.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F8042078-265C-4C7E-BE5C-34584D8D1B5C}
+      IID 4
+      NAME Bpm150_BombTrap_Full01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2AE6B6E4-677C-4B6A-934D-276F5EB348E9}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_Full01.wav"
+      >
+    >
+    <ITEM
+      POSITION 80
+      SNAPOFFS 0
+      LENGTH 0.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {344B7D78-57F5-4C94-B149-CF7161952C80}
+      IID 4
+      NAME Bpm150_BombTrap_Full01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7004BB0C-8BFF-450F-B24F-6EF2CD2308DB}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_Full01.wav"
+      >
+    >
+    <ITEM
+      POSITION 83.2
+      SNAPOFFS 0
+      LENGTH 0.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EC3F6F56-C7CE-42AB-A372-F6FDE1AFDD07}
+      IID 4
+      NAME Bpm150_BombTrap_Full01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D66E8BE-79B9-4B1B-881E-D2EC95AAE70A}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_Full01.wav"
+      >
+    >
+    <ITEM
+      POSITION 86.4
+      SNAPOFFS 0
+      LENGTH 0.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {41F0A3D8-9C27-4555-B73C-0CE0B3BAE672}
+      IID 4
+      NAME Bpm150_BombTrap_Full01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D14AB6A-AA20-4A59-A0F4-3D66480DD0F0}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_Full01.wav"
+      >
+    >
+    <ITEM
+      POSITION 89.6
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {83665EA2-218D-4510-B90B-1FE775058373}
+      IID 4
+      NAME Bpm150_BombTrap_Full01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF2EE1E6-5EF4-41DD-A2F3-6945F3C88C70}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_Full01.wav"
+      >
+    >
+    <ITEM
+      POSITION 102.4
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9C7C6ED0-062C-4A5C-8BA0-8FEC78B92E1F}
+      IID 4
+      NAME Bpm150_BombTrap_Full01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ABB18E9D-24B7-4293-9D92-7F0C4D8F206A}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_Full01.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.2
+      SNAPOFFS 0
+      LENGTH 12.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C250C6D7-3892-4CE0-B98D-27EDEA1385D0}
+      IID 4
+      NAME Bpm150_BombTrap_Full01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10218005-11A1-4DBF-AB82-3783C47B322A}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_Full01.wav"
+      >
+    >
+    <ITEM
+      POSITION 140.8
+      SNAPOFFS 0
+      LENGTH 0.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AD760CEA-1765-4365-808F-714EEDD40DA6}
+      IID 4
+      NAME Bpm150_BombTrap_Full01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95B2745F-CDA8-4523-A915-45E9F4DA5442}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_Full01.wav"
+      >
+    >
+  >
+  <TRACK {39DA97CF-A2A1-4CAE-8948-8EE556CE0C20}
+    NAME ""
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {39DA97CF-A2A1-4CAE-8948-8EE556CE0C20}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 51.6
+      SNAPOFFS 0
+      LENGTH 12.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F2232E1B-2CD5-45FF-8AC5-2CBE4D620B97}
+      IID 71
+      NAME Bpm150_BombTrap_Full02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4057CCAF-38B4-40B7-802B-4B8FA5B5D16B}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_Full02.wav"
+      >
+    >
+    <ITEM
+      POSITION 128.4
+      SNAPOFFS 0
+      LENGTH 12.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8A1845CC-13C6-432B-B3C7-087BE8B6D31A}
+      IID 71
+      NAME Bpm150_BombTrap_Full02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42366D3B-6235-4705-B3B4-182B9F001DC0}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_Full02.wav"
+      >
+    >
+  >
+  <TRACK {FD35098E-8167-4923-9828-DE11BF08E2C9}
+    NAME ""
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.43161018370141 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FD35098E-8167-4923-9828-DE11BF08E2C9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 19.2
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3D3F0B81-96C3-4331-93B1-79C9E880C953}
+      IID 23
+      NAME Bpm150_BombTrap_HihatLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EAAB2E9A-087C-46BE-937D-3AE55AD3F7EA}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_HihatLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 32
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BC2C7587-9A6A-40A7-B6CF-0E1F71B4C121}
+      IID 23
+      NAME Bpm150_BombTrap_HihatLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB80354E-381E-4F4A-8946-8C345AEFA4CE}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_HihatLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 45.6
+      SNAPOFFS 0
+      LENGTH 5.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DE88D765-D97B-48EB-8AA3-C47F61F44286}
+      IID 23
+      NAME Bpm150_BombTrap_HihatLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38298B00-3651-402B-913B-9C6002174D09}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_HihatLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 58.4
+      SNAPOFFS 0
+      LENGTH 5.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0F864DFD-A923-485D-B623-AD3E2581E2BC}
+      IID 23
+      NAME Bpm150_BombTrap_HihatLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E504335-DE9F-4115-9356-4F5F5A7F9059}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_HihatLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 96.8
+      SNAPOFFS 0
+      LENGTH 5.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {51B86A0C-F0CB-4828-B384-7AB10A854EEB}
+      IID 23
+      NAME Bpm150_BombTrap_HihatLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC4DC599-A798-429D-A117-CD6A8DD7C506}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_HihatLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 108.8
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B4342FAE-2162-4B07-BB52-72142F07B097}
+      IID 23
+      NAME Bpm150_BombTrap_HihatLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F1361FF-6751-477B-B9FD-F9CD5870E09C}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_HihatLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 122.4
+      SNAPOFFS 0
+      LENGTH 5.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7517D802-7A65-4424-8560-8B45DFC191B8}
+      IID 23
+      NAME Bpm150_BombTrap_HihatLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E82607E4-663E-4F5A-A8B3-FAD02A7693B1}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_HihatLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 135.2
+      SNAPOFFS 0
+      LENGTH 5.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {96CA4409-CBB7-4F40-923C-1AA436609653}
+      IID 23
+      NAME Bpm150_BombTrap_HihatLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07F77299-2316-4DB5-AC66-3CFCC1F9F6E8}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_HihatLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 140.8
+      SNAPOFFS 0
+      LENGTH 0.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8A44C09A-7010-4DA0-8991-EA6168FD26EB}
+      IID 23
+      NAME Bpm150_BombTrap_HihatLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 5.6
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0ACA5239-F6A8-4862-AB13-8FB241BB836F}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_HihatLoop01.wav"
+      >
+    >
+  >
+  <TRACK {2D5146B3-1215-4A4E-80EB-7F466B661A8D}
+    NAME ""
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2D5146B3-1215-4A4E-80EB-7F466B661A8D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {B914683B-0650-43AE-A070-8E3BE621B561}
+    NAME Bass
+    PEAKCOL 21004543
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B914683B-0650-43AE-A070-8E3BE621B561}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {6563F455-97B7-4515-A85D-FF3D1FDA3D63}
+    NAME ""
+    PEAKCOL 21004543
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6563F455-97B7-4515-A85D-FF3D1FDA3D63}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12.8
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B1DA844A-F7DE-4CA5-8F92-058BC1D88E67}
+      IID 5
+      NAME Bpm150_G_Battalion01_Bass.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {34EF4182-B948-4792-BCED-1DB096C82AF4}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Battalion01_Bass.wav"
+      >
+    >
+    <ITEM
+      POSITION 25.6
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C252DB27-5E8F-460A-9475-75919BA2F368}
+      IID 5
+      NAME Bpm150_G_Battalion01_Bass.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F13C6938-E975-45E9-BA8F-6B09F7C9E812}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Battalion01_Bass.wav"
+      >
+    >
+    <ITEM
+      POSITION 38.4
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 0 0.01 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3BC165A1-7666-41BE-A4DF-9AFBE07AA63A}
+      IID 5
+      NAME Bpm150_G_Battalion01_Bass.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A64C0EE7-BF4A-43F7-91EF-285431F8D66E}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Battalion01_Bass.wav"
+      >
+    >
+    <ITEM
+      POSITION 51.2
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 0 0.01 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E1D14537-486C-4F85-AB76-3E483DE6C90A}
+      IID 5
+      NAME Bpm150_G_Battalion01_Bass.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A764FA0E-FFCE-42CC-B442-B225D36FCB3F}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Battalion01_Bass.wav"
+      >
+    >
+    <ITEM
+      POSITION 89.6
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CE0ABB7D-3486-43CF-B13E-D78A43E31123}
+      IID 5
+      NAME Bpm150_G_Battalion01_Bass.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {389839E8-0D7E-48BF-B94E-B318834F1DA2}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Battalion01_Bass.wav"
+      >
+    >
+    <ITEM
+      POSITION 102.4
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5B901F79-2D36-44B3-B5A5-9E821BC7900C}
+      IID 5
+      NAME Bpm150_G_Battalion01_Bass.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {732B80D4-AA38-4099-917F-D69190480A55}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Battalion01_Bass.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.2
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CFEBA9AF-34DD-4B85-B2C1-292A142B7A23}
+      IID 5
+      NAME Bpm150_G_Battalion01_Bass.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6FBB9D2E-6748-4801-A009-8B89AE9F378B}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Battalion01_Bass.wav"
+      >
+    >
+    <ITEM
+      POSITION 128
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E2A651AB-CB31-41AB-9952-16679EF588BB}
+      IID 5
+      NAME Bpm150_G_Battalion01_Bass.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2131931C-D4A0-420B-BB80-D7145DEE6F7F}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Battalion01_Bass.wav"
+      >
+    >
+  >
+  <TRACK {6F8E0A0B-9C34-45F6-B44E-5451EB781E48}
+    NAME ""
+    PEAKCOL 21004543
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6F8E0A0B-9C34-45F6-B44E-5451EB781E48}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 76.8
+      SNAPOFFS 0
+      LENGTH 1.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 0 1.6 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3FD190EF-5DF9-43F2-A668-1C38BE022E6E}
+      IID 5
+      NAME Bpm150_G_Battalion01_Bass.wav
+      VOLPAN 1 0 0.478291 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07772BC3-86C3-4032-B2F1-ECE8B62D2447}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Battalion01_Bass.wav"
+      >
+    >
+    <ITEM
+      POSITION 83.2
+      SNAPOFFS 0
+      LENGTH 1.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0
+      FADEOUT 0 1.6 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9516D7B9-6534-4CD0-9CD7-0FEA7129DCE4}
+      IID 5
+      NAME Bpm150_G_Battalion01_Bass.wav
+      VOLPAN 1 0 0.478291 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ED3C4A9A-3812-4C73-A6F5-EF301FA99F67}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Battalion01_Bass.wav"
+      >
+    >
+    <ITEM
+      POSITION 86.4
+      SNAPOFFS 0
+      LENGTH 1.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 0 1.205222 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7D656F49-22DC-4BEC-B314-DFC3FF7D3EB5}
+      IID 5
+      NAME Bpm150_G_Battalion01_Bass.wav
+      VOLPAN 1 0 0.720562 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99762EAF-0132-4D3A-9B0E-4A128331E035}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Battalion01_Bass.wav"
+      >
+    >
+    <ITEM
+      POSITION 140.8
+      SNAPOFFS 0
+      LENGTH 1.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 0 1.205222 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D996BBBD-41DF-4061-ADED-1C5C1435EE05}
+      IID 5
+      NAME Bpm150_G_Battalion01_Bass.wav
+      VOLPAN 1 0 0.720562 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01EC3054-6701-44AE-8422-542545AB3CCF}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Battalion01_Bass.wav"
+      >
+    >
+    <ITEM
+      POSITION 144
+      SNAPOFFS 0
+      LENGTH 1.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 0 1.171582 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B6D5B284-E8EF-42F2-AEF1-8091A0550B26}
+      IID 5
+      NAME Bpm150_G_Battalion01_Bass.wav
+      VOLPAN 1 0 0.478291 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D90BBA2D-E8DD-4D2A-AF95-1F2933C5A49F}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Battalion01_Bass.wav"
+      >
+    >
+    <ITEM
+      POSITION 147.2
+      SNAPOFFS 0
+      LENGTH 1.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 0 1.184359 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FE6DA53E-A720-4C12-9BCE-EDE16B6E9A3D}
+      IID 5
+      NAME Bpm150_G_Battalion01_Bass.wav
+      VOLPAN 1 0 0.270709 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87EE3EFF-75BE-4673-B215-EB3D805617EA}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Battalion01_Bass.wav"
+      >
+    >
+    <ITEM
+      POSITION 150.4
+      SNAPOFFS 0
+      LENGTH 1.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 0 1.197136 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D94A23C5-2C8D-4C87-9E28-42420CB5F01C}
+      IID 5
+      NAME Bpm150_G_Battalion01_Bass.wav
+      VOLPAN 1 0 0.152439 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F602206C-55DA-477F-A475-DCC47D5AD5C5}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Battalion01_Bass.wav"
+      >
+    >
+    <ITEM
+      POSITION 153.6
+      SNAPOFFS 0
+      LENGTH 1.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 0 1.197136 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0E878C9D-3826-451E-98FD-75788266B210}
+      IID 214
+      NAME Bpm150_G_Battalion01_Bass.wav
+      VOLPAN 1 0 0.152439 -1
+      SOFFS 12.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A714098-5193-4610-ACA5-C9D97B2D0D2C}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Battalion01_Bass.wav"
+      >
+    >
+  >
+  <TRACK {1A684768-0625-4262-B0ED-D945243CC003}
+    NAME Melody
+    PEAKCOL 29392896
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1A684768-0625-4262-B0ED-D945243CC003}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 38
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D30FD1E7-CA41-4A12-86F9-620A751C6F00}
+      IID 9
+      NAME Bpm150_G_Dystopia_Lead.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B63E5BA6-7F5E-48A0-A63D-4536BBEC189A}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Dystopia_Lead.wav"
+      >
+    >
+    <ITEM
+      POSITION 50.8
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C76EC961-74EF-4B13-B0BE-9809FD3A97F1}
+      IID 9
+      NAME Bpm150_G_Dystopia_Lead.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85AA60E2-5269-4DF1-B60B-B703A14B5499}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Dystopia_Lead.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.8
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8C58BC0E-D843-4B4E-B4C9-33CBB4E4919D}
+      IID 9
+      NAME Bpm150_G_Dystopia_Lead.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B05A433-F288-4A0A-8C3E-C54888216964}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Dystopia_Lead.wav"
+      >
+    >
+    <ITEM
+      POSITION 127.6
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E7E7F462-927C-47DE-ABE1-4B76A755883A}
+      IID 9
+      NAME Bpm150_G_Dystopia_Lead.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5324C5AC-3593-4348-AF25-49802FC87D45}
+      <SOURCE WAVE
+        FILE "Bpm150_G_Dystopia_Lead.wav"
+      >
+    >
+  >
+  <TRACK {C814EA02-1C81-4F60-ACE9-45C9A6745442}
+    NAME FX
+    PEAKCOL 33489151
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C814EA02-1C81-4F60-ACE9-45C9A6745442}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6.40000000002328
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 2.973601 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {33882639-39B6-4521-95F8-001C9269F45A}
+      IID 39
+      NAME Bpm150_BombTrap_ClapLoop02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1ADF2D5A-DCDE-47B3-B43D-379911142DC4}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_ClapLoop02.wav"
+      >
+    >
+    <ITEM
+      POSITION 76.8
+      SNAPOFFS 0
+      LENGTH 3.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 3.179827 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8523FB07-1BE5-4EAD-A552-E47CB2EF3E6E}
+      IID 39
+      NAME Bpm150_BombTrap_ClapLoop02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DDEFEB36-6D4F-49E1-97F3-4FB0B0C8681D}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_ClapLoop02.wav"
+      >
+    >
+    <ITEM
+      POSITION 80
+      SNAPOFFS 0
+      LENGTH 3.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {59071AA2-D99C-4F68-B63E-5C602EE1C119}
+      IID 39
+      NAME Bpm150_BombTrap_ClapLoop02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E52AB58-EA23-4081-AB2F-C73FE63F4EED}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_ClapLoop02.wav"
+      >
+    >
+    <ITEM
+      POSITION 83.2
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {82FB9324-E1CD-437A-ABF1-E3ABBE571EF9}
+      IID 39
+      NAME Bpm150_BombTrap_ClapLoop02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB7611F3-982C-4271-8C08-7407E1D48C71}
+      <SOURCE WAVE
+        FILE "Bpm150_BombTrap_ClapLoop02.wav"
+      >
+    >
+  >
+  <TRACK {D77D5711-FD9D-41A6-83E4-0EF1764C6744}
+    NAME ""
+    PEAKCOL 33489151
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D77D5711-FD9D-41A6-83E4-0EF1764C6744}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {32D1AF0C-958F-4EB1-8399-E70EFEFFD178}
+      IID 12
+      NAME Bpm150_G_TensionRise_Synth.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DCB0B5B5-76C6-4EDE-A030-131A275FDF09}
+      <SOURCE WAVE
+        FILE "Bpm150_G_TensionRise_Synth.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.4
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E6D35313-F604-40B0-85DB-036D6E3B650B}
+      IID 12
+      NAME Bpm150_G_TensionRise_Synth.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {608F7B55-250C-48E4-B903-54979BFD3F96}
+      <SOURCE WAVE
+        FILE "Bpm150_G_TensionRise_Synth.wav"
+      >
+    >
+    <ITEM
+      POSITION 64
+      SNAPOFFS 0
+      LENGTH 25.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 2.632548 0 1 0 0
+      FADEOUT 1 9.632615 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {65A6078B-8ACF-447F-9613-39832D41226E}
+      IID 12
+      NAME Bpm150_G_TensionRise_Synth.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {94152F70-BAF5-444E-92CF-A181BA6BB38D}
+      <SOURCE WAVE
+        FILE "Bpm150_G_TensionRise_Synth.wav"
+      >
+    >
+  >
+  <TRACK {C2FD1599-0EB0-43C4-AFD0-E6C8FE99C710}
+    NAME ""
+    PEAKCOL 33489151
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C2FD1599-0EB0-43C4-AFD0-E6C8FE99C710}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6.4
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {56C10CBA-60E8-449A-B788-FD40A5BC006B}
+      IID 13
+      NAME Bpm150_G_TrapSirens01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BBFDBE82-5A4D-446E-B290-35AAF1825883}
+      <SOURCE WAVE
+        FILE "Bpm150_G_TrapSirens01.wav"
+      >
+    >
+    <ITEM
+      POSITION 25.59999999997672
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 1.273758 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F5153EFF-2278-427C-87CC-CE23DFB8A994}
+      IID 174
+      NAME Bpm150_G_TrapSirens02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {20F12909-C079-4825-97E9-1E0BEA424ED9}
+      <SOURCE WAVE
+        FILE "Bpm150_G_TrapSirens02.wav"
+      >
+    >
+    <ITEM
+      POSITION 70.4
+      SNAPOFFS 0
+      LENGTH 6.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 0 6.338524 0 0 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A108EAB1-A835-430D-AAAC-D0C34443F4C5}
+      IID 37
+      NAME Bpm150_G_TrapSirens03.wav
+      VOLPAN 0.589744 0 1 -1
+      SOFFS 6.4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57D2C967-2C12-4300-BABA-7A902275523B}
+      <SOURCE WAVE
+        FILE "Bpm150_G_TrapSirens03.wav"
+      >
+    >
+    <ITEM
+      POSITION 76.8
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 0 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4873D8C3-AFC0-4CB0-AB8A-D29FA1781A14}
+      IID 210
+      NAME Bpm150_G_TrapSirens03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B03BF16-EEC6-4A89-9EE4-4EB221F36424}
+      <SOURCE WAVE
+        FILE "Bpm150_G_TrapSirens03.wav"
+      >
+    >
+    <ITEM
+      POSITION 102.39999999997671
+      SNAPOFFS 0
+      LENGTH 12.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 1.273758 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {53449DF2-2B3A-4A08-A1A0-F090462631B5}
+      IID 174
+      NAME Bpm150_G_TrapSirens02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5BC9CF9E-35F6-4FB9-B976-83CE83689BF1}
+      <SOURCE WAVE
+        FILE "Bpm150_G_TrapSirens02.wav"
+      >
+    >
+  >
+  <TRACK {BFE12C8D-C373-40E2-B150-405A1E9CFDD4}
+    NAME DelinquentRiser_SFX03
+    PEAKCOL 33489151
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.54793648037502 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BFE12C8D-C373-40E2-B150-405A1E9CFDD4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 18
+      SNAPOFFS 0
+      LENGTH 1.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {23F8A670-3768-4220-BA04-44EFD9DB950E}
+      IID 54
+      NAME Bpm150_G_HostileReese01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5BA8B84-EAB1-4C26-98AA-D7FAC8C75F07}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese01.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.4
+      SNAPOFFS 0
+      LENGTH 1.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {023B3369-B83D-4379-AC1A-F0D2690ECB6E}
+      IID 54
+      NAME Bpm150_G_HostileReese01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CD0B9EC-CBAF-4164-8C25-3A09BC7F975C}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese01.wav"
+      >
+    >
+    <ITEM
+      POSITION 43.2
+      SNAPOFFS 0
+      LENGTH 1.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C5B0A99D-4704-4A4D-852D-C93DC621567A}
+      IID 54
+      NAME Bpm150_G_HostileReese01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6FA94319-5AF1-4A53-B75E-6B380F13B44D}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese01.wav"
+      >
+    >
+    <ITEM
+      POSITION 56
+      SNAPOFFS 0
+      LENGTH 1.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {83DE1BB8-56B5-4774-B024-6C5BC9D51BDE}
+      IID 54
+      NAME Bpm150_G_HostileReese01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA26E937-05BB-4F12-AB72-6C33D1685134}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese01.wav"
+      >
+    >
+    <ITEM
+      POSITION 64
+      SNAPOFFS 0
+      LENGTH 11.67020833333331
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.896058 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1C3CCFD6-B911-44C3-BD6C-6F5AEB21B92E}
+      IID 137
+      NAME "354172__gerainsan__long-panned-riser-v2 reversed 001.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4551B310-F6D1-41D9-ACBE-A88F2CAAFFE4}
+      <SOURCE WAVE
+        FILE "354172__gerainsan__long-panned-riser-v2 reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 94.8
+      SNAPOFFS 0
+      LENGTH 1.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5EF3746E-1CD0-46DC-81F6-B5D06D6057E1}
+      IID 54
+      NAME Bpm150_G_HostileReese01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D582E99-8E06-4155-ACF1-03CCA9459CD9}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese01.wav"
+      >
+    >
+    <ITEM
+      POSITION 107.2
+      SNAPOFFS 0
+      LENGTH 1.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C0D16F74-5812-4582-AA5A-B2AC4609A4BC}
+      IID 54
+      NAME Bpm150_G_HostileReese01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {79C84EAC-3017-4F45-8693-E4FCF43989F9}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese01.wav"
+      >
+    >
+    <ITEM
+      POSITION 132.8
+      SNAPOFFS 0
+      LENGTH 1.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A1CF318D-80B8-424C-A426-9622AC1633A6}
+      IID 54
+      NAME Bpm150_G_HostileReese01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA8F961D-020E-4B6E-AB7E-0E7151317AAF}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese01.wav"
+      >
+    >
+    <ITEM
+      POSITION 140.4
+      SNAPOFFS 0
+      LENGTH 11.67020833333325
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.896058 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {74E51EAB-E262-463F-9E09-CE0934FC7B6C}
+      IID 137
+      NAME "354172__gerainsan__long-panned-riser-v2 reversed 001.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CA3C28F-E67E-4B33-9CAD-D25E2D11868A}
+      <SOURCE WAVE
+        FILE "354172__gerainsan__long-panned-riser-v2 reversed 001.wav"
+      >
+    >
+  >
+  <TRACK {7BF88CA4-AD0D-45FA-A6EE-8DE371A0F404}
+    NAME DelinquentRiser_SFX03
+    PEAKCOL 33489151
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.54793648037502 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7BF88CA4-AD0D-45FA-A6EE-8DE371A0F404}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 14.4
+      SNAPOFFS 0
+      LENGTH 3.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.192403 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E32A2D03-A96E-4179-B519-FD71906FE8FA}
+      IID 100
+      NAME Bpm150_G_HostileReese02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C2D306F-F454-4439-96BE-BF0DD15CEF9F}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese02.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.8
+      SNAPOFFS 0
+      LENGTH 3.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7EA64026-DE62-43C3-AA76-239290535C0B}
+      IID 100
+      NAME Bpm150_G_HostileReese02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2BDFFAEE-E937-4A46-9E76-62B53477CF1A}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese02.wav"
+      >
+    >
+    <ITEM
+      POSITION 49.2
+      SNAPOFFS 0
+      LENGTH 3.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {669A6972-4906-4577-BC13-0D74C11590CF}
+      IID 100
+      NAME Bpm150_G_HostileReese02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AAFE029F-7E84-4F37-BBE6-CE02C844CB5E}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese02.wav"
+      >
+    >
+    <ITEM
+      POSITION 62
+      SNAPOFFS 0
+      LENGTH 3.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F2634946-1075-4A33-8717-CD832E32202C}
+      IID 100
+      NAME Bpm150_G_HostileReese02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7963390E-9DB3-4BDE-9056-FCFB29D44C8B}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese02.wav"
+      >
+    >
+    <ITEM
+      POSITION 76.8
+      SNAPOFFS 0
+      LENGTH 1.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BBA0B15C-3836-4C79-915A-5FCCB1790685}
+      IID 100
+      NAME Bpm150_G_HostileReese02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42F4A5E6-76A2-4E7D-8EDB-388E6AC0F1A1}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese02.wav"
+      >
+    >
+    <ITEM
+      POSITION 91.2
+      SNAPOFFS 0
+      LENGTH 3.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.228902 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {875DED07-376E-4230-9DBF-3A2F30F87F44}
+      IID 100
+      NAME Bpm150_G_HostileReese02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {800C2F09-E68D-4020-A8E3-D4D5261FE748}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese02.wav"
+      >
+    >
+    <ITEM
+      POSITION 99.6
+      SNAPOFFS 0
+      LENGTH 3.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {442D7A12-4045-48F6-A6B6-A1AB2F8829F8}
+      IID 100
+      NAME Bpm150_G_HostileReese02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C70E241-46BD-419F-95B7-15446E100BB2}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese02.wav"
+      >
+    >
+    <ITEM
+      POSITION 120
+      SNAPOFFS 0
+      LENGTH 1.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8ABF6594-C618-4784-88EE-B05B5EF6B922}
+      IID 114
+      NAME Bpm150_G_HostileReese03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF0B6DF2-EA3B-4A1D-AC4E-D0954FF7B089}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese03.wav"
+      >
+    >
+    <ITEM
+      POSITION 126
+      SNAPOFFS 0
+      LENGTH 3.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D4AF08FA-FE80-418F-B7E5-F12875306479}
+      IID 100
+      NAME Bpm150_G_HostileReese02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE34BB3F-F532-4440-AC8C-BF44CC7A5DAE}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese02.wav"
+      >
+    >
+    <ITEM
+      POSITION 138.4
+      SNAPOFFS 0
+      LENGTH 3.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {34FAEA90-4AB3-40E2-859C-6F9E58F77C80}
+      IID 100
+      NAME Bpm150_G_HostileReese02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {017A3160-9D11-41C8-88DF-2E030D402A27}
+      <SOURCE WAVE
+        FILE "Bpm150_G_HostileReese02.wav"
+      >
+    >
+  >
+  <TRACK {F022C01C-C242-4F4F-A267-85499E950517}
+    NAME Vocal
+    PEAKCOL 33554431
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F022C01C-C242-4F4F-A267-85499E950517}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 18.8
+      SNAPOFFS 0
+      LENGTH 2.89072562358275
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4FA1FA40-7170-4E86-949D-C9A5B84461C9}
+      IID 21
+      NAME Wut.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {86783586-9747-4318-B0F1-FFDE79196839}
+      <SOURCE WAVE
+        FILE "Wut.wav"
+      >
+    >
+    <ITEM
+      POSITION 88
+      SNAPOFFS 0
+      LENGTH 2.97551020408163
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E6ACE448-B388-4C57-A6FA-ADFFDF2E4FC2}
+      IID 211
+      NAME Hey05.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 18 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A99BCD6-95DB-4125-B7BA-23DBBE95A781}
+      <SOURCE WAVE
+        FILE "Hey05.wav"
+      >
+    >
+    <ITEM
+      POSITION 95.6
+      SNAPOFFS 0
+      LENGTH 2.89072562358275
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {77A8D64D-81BE-4A59-B416-71F762CEB8F7}
+      IID 21
+      NAME Wut.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE5A5278-1CC5-4112-A1ED-D9F43D6DEBF3}
+      <SOURCE WAVE
+        FILE "Wut.wav"
+      >
+    >
+    <ITEM
+      POSITION 153.6
+      SNAPOFFS 0
+      LENGTH 2.8907256235828
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E00074AA-694E-46F3-8679-844E389076BB}
+      IID 212
+      NAME Wut.wav
+      VOLPAN 0.592593 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {16D06682-6EDC-4290-8F78-7DC358CD0EE4}
+      <SOURCE WAVE
+        FILE "Wut.wav"
+      >
+    >
+  >
+  <TRACK {311188FD-98D9-4E17-80B6-CF53B736BEBE}
+    NAME ""
+    PEAKCOL 33554431
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {311188FD-98D9-4E17-80B6-CF53B736BEBE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2.97551020408163
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CDD1436A-308A-4E0D-832D-8DB1942B761A}
+      IID 16
+      NAME Hey05.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D8617273-EDEA-417C-A855-17B532475830}
+      <SOURCE WAVE
+        FILE "Hey05.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.4
+      SNAPOFFS 0
+      LENGTH 2.97551020408163
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E1B4C532-D6FC-4870-8AE0-5128C789752D}
+      IID 16
+      NAME Hey05.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74B7CA77-7C8C-4A61-84F0-CBD256B534E8}
+      <SOURCE WAVE
+        FILE "Hey05.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.2
+      SNAPOFFS 0
+      LENGTH 2.82151927437642
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BF68A44A-D7C7-4F0B-8646-4AEFC7DFB474}
+      IID 19
+      NAME Hey01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B4A80A57-4CA4-4621-8634-BFB64421C0CD}
+      <SOURCE WAVE
+        FILE "Hey01.wav"
+      >
+    >
+    <ITEM
+      POSITION 64
+      SNAPOFFS 0
+      LENGTH 2.97551020408163
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8B720CEA-F43F-4174-B694-98B3B76C9D1B}
+      IID 16
+      NAME Hey05.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {069EBC18-2FD7-4388-94FC-D9718507294D}
+      <SOURCE WAVE
+        FILE "Hey05.wav"
+      >
+    >
+    <ITEM
+      POSITION 70.4
+      SNAPOFFS 0
+      LENGTH 2.97551020408163
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {70E839B7-2140-47D7-96D1-2E91B13A1AE5}
+      IID 208
+      NAME Hey05.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7A72431-6F16-471C-A239-1A73C7B59F1C}
+      <SOURCE WAVE
+        FILE "Hey05.wav"
+      >
+    >
+    <ITEM
+      POSITION 76.8
+      SNAPOFFS 0
+      LENGTH 2.97551020408163
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {341DFB2B-C09B-4FCC-97B3-712DD58CB8D3}
+      IID 16
+      NAME Hey05.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {56C09988-E36F-4F8A-9F2D-D25A9A83E659}
+      <SOURCE WAVE
+        FILE "Hey05.wav"
+      >
+    >
+    <ITEM
+      POSITION 80
+      SNAPOFFS 0
+      LENGTH 2.9755102040816
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {68E92DD1-424A-44BF-8565-F6DF88739B09}
+      IID 16
+      NAME Hey05.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 6 -1 0 0.0025
+      CHANMODE 0
+      GUID {15996B68-44C9-4498-B69A-B401DDB805CB}
+      <SOURCE WAVE
+        FILE "Hey05.wav"
+      >
+    >
+    <ITEM
+      POSITION 83.2
+      SNAPOFFS 0
+      LENGTH 2.97551020408163
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A0C43264-AFD3-446D-81B0-490430E34FDF}
+      IID 16
+      NAME Hey05.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 12 -1 0 0.0025
+      CHANMODE 0
+      GUID {778067DF-BA31-44BE-A9D6-06F47D2FAB72}
+      <SOURCE WAVE
+        FILE "Hey05.wav"
+      >
+    >
+    <ITEM
+      POSITION 86.4
+      SNAPOFFS 0
+      LENGTH 2.97551020408163
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6CA9ABAA-6BF4-4ABD-86B6-41F439338EFA}
+      IID 16
+      NAME Hey05.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 18 -1 0 0.0025
+      CHANMODE 0
+      GUID {A028A262-2251-413C-B31A-3DCA6590753D}
+      <SOURCE WAVE
+        FILE "Hey05.wav"
+      >
+    >
+    <ITEM
+      POSITION 140.8
+      SNAPOFFS 0
+      LENGTH 2.97551020408162
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {609BCC9D-96A0-4014-B9C6-7D640266946E}
+      IID 16
+      NAME Hey05.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D38344C3-84FA-4A83-95F3-EA2E116F0726}
+      <SOURCE WAVE
+        FILE "Hey05.wav"
+      >
+    >
+  >
+  <TRACK {766333DF-4ECB-41A1-B55C-5CF627EB7C3B}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {766333DF-4ECB-41A1-B55C-5CF627EB7C3B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 88.8
+      SNAPOFFS 0
+      LENGTH 2.9755102040816
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E8E5A404-2AEC-4629-A639-0314694928EF}
+      IID 16
+      NAME Hey05.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 24 -1 0 0.0025
+      CHANMODE 0
+      GUID {41CCFDBA-C7C0-43C0-8CFC-58C44BA7AEC7}
+      <SOURCE WAVE
+        FILE "Hey05.wav"
+      >
+    >
+  >
+>

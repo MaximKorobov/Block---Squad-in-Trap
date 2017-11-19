@@ -1,0 +1,2300 @@
+<REAPER_PROJECT 0.1 "5.62/x64" 1511090706
+  <NOTES 1
+    |Total Samples - Hybrid Twerk & Trap
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 117
+  ZOOM 8.72872546081974 0 0
+  VZOOMEX 5
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "..\!audio\07. Cypher - v2.mp3"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    bDNwbYAAAAABAAAABQAAAP////8EAAAAgAAAAAAAAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 100 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {B593319E-04DB-4758-9599-7D8589BBA574}
+    NAME Drums
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B593319E-04DB-4758-9599-7D8589BBA574}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {306877E7-D30F-4578-BB4A-6DEAB6E3F84D}
+    NAME ""
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {306877E7-D30F-4578-BB4A-6DEAB6E3F84D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.2
+      SNAPOFFS 0
+      LENGTH 9.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {983B8487-64BF-4727-8838-520A14D9BD8E}
+      IID 138
+      NAME Bpm100_Drums_HiHats.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B4271BC4-1A21-4534-9153-4132280BE516}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_HiHats.wav"
+      >
+    >
+    <ITEM
+      POSITION 45.6
+      SNAPOFFS 0
+      LENGTH 9.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.035264 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EDF866D1-DFF0-44E7-A3F1-3A21AA2BAABB}
+      IID 138
+      NAME Bpm100_Drums_HiHats.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E0E12763-709C-4AA3-A6F1-A64731E0F5A8}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_HiHats.wav"
+      >
+    >
+    <ITEM
+      POSITION 76.80000000004658
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BA520F3F-C379-4D4A-8A4F-F94C4A168B3F}
+      IID 141
+      NAME Bpm100_Drums_DrumLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C062D52F-1636-4CC5-8629-0F43B11C2D04}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 86.40000000002328
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {65CEE167-1856-48F4-9E56-E26DCC4D675B}
+      IID 141
+      NAME Bpm100_Drums_DrumLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89EF76A1-76F8-40F4-A6BB-11916585F5FD}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 108
+      SNAPOFFS 0
+      LENGTH 9.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.035264 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1C3734FF-508C-49F3-9A4D-83C5EB447885}
+      IID 138
+      NAME Bpm100_Drums_HiHats.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D3C265C-4C58-4980-9697-5558C0C455CE}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_HiHats.wav"
+      >
+    >
+    <ITEM
+      POSITION 139.2
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F15E0FFD-C5A3-4ED6-B383-460EB2FD54F1}
+      IID 141
+      NAME Bpm100_Drums_DrumLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA8456E0-49C4-405E-B05A-02446BCDA8DA}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 148.79999999997676
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7F8D509A-09D3-4485-86D8-EE48F9422252}
+      IID 141
+      NAME Bpm100_Drums_DrumLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7AF97DA-B717-4875-9167-F4788961F7FB}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop01.wav"
+      >
+    >
+  >
+  <TRACK {2F99862B-2855-4B78-9F51-01BC313BA07E}
+    NAME Bpm140_DrumLoop_12
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2F99862B-2855-4B78-9F51-01BC313BA07E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {75303BB8-026D-4505-9880-4603FDBA9C14}
+      IID 141
+      NAME Bpm100_Drums_DrumLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E36EC05-AE97-498A-BBF7-0B753B350A76}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.6
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {412C39BF-6F49-49FA-8EDC-BEC08962E9BF}
+      IID 141
+      NAME Bpm100_Drums_DrumLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CEDC33DB-3CE5-4498-89A7-840C3B4CEC84}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 56.4
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B00675EF-5A66-48ED-94E6-6C2000712CF0}
+      IID 141
+      NAME Bpm100_Drums_DrumLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CAA1585-615D-4D5A-A1A0-1EEC3EA1948E}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 66
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {10CBDB35-F2AD-46E6-95CD-277E5E14B1E7}
+      IID 141
+      NAME Bpm100_Drums_DrumLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A9FB1DD-CAFA-46CD-956F-55562A7792EC}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 81.59999999997673
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8858ADA2-4BA3-4812-9AFA-CB5B167137E0}
+      IID 142
+      NAME Bpm100_Drums_DrumLoop02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {862513FB-3CE1-4152-8572-BA0FD987CB5F}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop02.wav"
+      >
+    >
+    <ITEM
+      POSITION 91.19999999995343
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {379A202B-8E7C-46C0-A809-699DF7B891CE}
+      IID 142
+      NAME Bpm100_Drums_DrumLoop02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AE2CD17A-2AB3-459D-80B8-5211FFC6ABB9}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop02.wav"
+      >
+    >
+    <ITEM
+      POSITION 118.8
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9EF90BDE-F9A8-4C6C-99DD-E1B5E3B3FC2A}
+      IID 228
+      NAME Bpm100_Drums_DrumLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B80C658-5CD3-4A75-A792-7FD9A582A34A}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 128.4
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A84C9BA4-65B4-4F50-89CD-C398AC300D2E}
+      IID 229
+      NAME Bpm100_Drums_DrumLoop01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D95E08D1-A623-493A-B4E7-5B4C66D154CC}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop01.wav"
+      >
+    >
+    <ITEM
+      POSITION 143.99999999993011
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {84125CC0-4591-4BE5-91A0-27CD44DDEBFB}
+      IID 142
+      NAME Bpm100_Drums_DrumLoop02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {66DEE8F0-CD4B-4B2B-A8FA-58FB93AE0736}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop02.wav"
+      >
+    >
+    <ITEM
+      POSITION 153.59999999990691
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6833B0C1-4CFD-4232-9A2C-186FEA036737}
+      IID 142
+      NAME Bpm100_Drums_DrumLoop02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D77D5A0-0832-464E-A323-F8417274523A}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop02.wav"
+      >
+    >
+  >
+  <TRACK {4832EDBD-3BDB-404D-9F31-9A75D76B6627}
+    NAME Bpm140_DrumLoop_05
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4832EDBD-3BDB-404D-9F31-9A75D76B6627}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 16.8
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EE7D26B1-CB92-42C5-A6CA-5EB722C7FAA4}
+      IID 142
+      NAME Bpm100_Drums_DrumLoop02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {66FF6E5C-09EE-4B0B-BD35-0EF9C6C45F67}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop02.wav"
+      >
+    >
+    <ITEM
+      POSITION 26.4
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0E4DC0B1-7D97-455D-A165-4F478539E5E0}
+      IID 142
+      NAME Bpm100_Drums_DrumLoop02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43DF1C34-F00D-43E6-ABAA-3ED0F88AB4B1}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop02.wav"
+      >
+    >
+    <ITEM
+      POSITION 61.2
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {090544B9-4A1A-4967-B39A-612DFED0698D}
+      IID 142
+      NAME Bpm100_Drums_DrumLoop02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA4546BE-BA5C-4110-B159-29DA6A9E9ED5}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop02.wav"
+      >
+    >
+    <ITEM
+      POSITION 70.8
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0AE367A3-536E-4D79-A80F-7DE541D1D4B8}
+      IID 142
+      NAME Bpm100_Drums_DrumLoop02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DAA51E84-5A82-468F-BE92-4ABC14F4C520}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop02.wav"
+      >
+    >
+    <ITEM
+      POSITION 123.6
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6015E09B-23B0-4E0B-9208-6DF4CCBD8D14}
+      IID 230
+      NAME Bpm100_Drums_DrumLoop02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D377C55C-D7EE-4D63-84C3-6849D879BB97}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop02.wav"
+      >
+    >
+    <ITEM
+      POSITION 133.2
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {50BFE5FE-5DB3-4EE5-B2EF-19C99462A035}
+      IID 231
+      NAME Bpm100_Drums_DrumLoop02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F685166B-1655-44AE-A794-7B5F4D543551}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumLoop02.wav"
+      >
+    >
+  >
+  <TRACK {9AAE490A-53F5-463A-9322-A2BED5E78F69}
+    NAME Bpm140_F_Bass_Pattern01
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9AAE490A-53F5-463A-9322-A2BED5E78F69}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DAA8038C-0D6A-4755-96A5-D281CE9664D6}
+      IID 139
+      NAME Bpm100_Drums_Snare808BuildUp.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C308736E-D8B8-424D-8709-9A48BFC92693}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_Snare808BuildUp.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.8
+      SNAPOFFS 0
+      LENGTH 1.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D93B703F-48E8-4899-9602-6E9C5A623621}
+      IID 140
+      NAME Bpm100_Drums_DrumFill01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {33ED043A-7ADD-4D29-BFB3-9699809E812F}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumFill01.wav"
+      >
+    >
+    <ITEM
+      POSITION 55.2
+      SNAPOFFS 0
+      LENGTH 1.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C63AF219-E3E5-4033-8A65-2DB519CE2C11}
+      IID 140
+      NAME Bpm100_Drums_DrumFill01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC0FBA6B-A68E-4184-BA33-C97893CCA718}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumFill01.wav"
+      >
+    >
+    <ITEM
+      POSITION 75.6
+      SNAPOFFS 0
+      LENGTH 1.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6D08AEEF-FD0B-485E-87F9-2F94D6C53686}
+      IID 140
+      NAME Bpm100_Drums_DrumFill01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {88B22FE9-3428-4964-8A85-F04A3FE25050}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumFill01.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.6
+      SNAPOFFS 0
+      LENGTH 1.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {967D6591-C2A6-4506-B91C-FB88CB2414E5}
+      IID 140
+      NAME Bpm100_Drums_DrumFill01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9EFCABF2-CB86-40BF-BCCA-0C601DED19D8}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumFill01.wav"
+      >
+    >
+    <ITEM
+      POSITION 138
+      SNAPOFFS 0
+      LENGTH 1.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2CB81C54-621B-46F0-B9CF-DE31D8244237}
+      IID 232
+      NAME Bpm100_Drums_DrumFill01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28F2433E-4861-49E2-8457-F95F635C6B44}
+      <SOURCE WAVE
+        FILE "Bpm100_Drums_DrumFill01.wav"
+      >
+    >
+  >
+  <TRACK {B4EF9077-68BA-4202-9065-43C138FBD4F7}
+    NAME Bpm150_E_808Loop
+    PEAKCOL 21004543
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B4EF9077-68BA-4202-9065-43C138FBD4F7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {C2BE6DC7-E027-4098-8EBC-52580A43E9DB}
+    NAME Bpm150_E_808Loop
+    PEAKCOL 21004543
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C2BE6DC7-E027-4098-8EBC-52580A43E9DB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 9.6
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {107BBF17-FAC0-4592-8B00-7A7053357DE7}
+      IID 145
+      NAME Bpm100_F_Bass_FestBuildUp.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E846748A-44E4-4F2F-9748-935E7FDEAE58}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_FestBuildUp.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.2
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {19700006-4BE1-4E42-8DCA-7C17AB555B0A}
+      IID 153
+      NAME "Bpm100_F_Bass_FestBuildUp reversed 001.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EECF4671-DDC7-458F-A58A-BE74074A6B89}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_FestBuildUp reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 33.6
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6E0E80BE-CE14-460D-A704-D8EC6B24CDC5}
+      IID 153
+      NAME Bpm100_F_Bass_FestBuildUp.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67D37A39-682C-4C1E-A61D-CAE9B6E4CA9C}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_FestBuildUp.wav"
+      >
+    >
+    <ITEM
+      POSITION 54
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {434EA156-97F9-4EE6-928B-3E7C08EBFE0E}
+      IID 145
+      NAME Bpm100_F_Bass_FestBuildUp.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0920BE35-A2E1-48B0-8E70-950BF66EE729}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_FestBuildUp.wav"
+      >
+    >
+    <ITEM
+      POSITION 74.4
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C182305E-B50B-434F-BA10-DF10126B6A5E}
+      IID 145
+      NAME Bpm100_F_Bass_FestBuildUp.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5961D75B-F8E1-40DE-BAEF-A433DB825FDA}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_FestBuildUp.wav"
+      >
+    >
+    <ITEM
+      POSITION 76.80000000004658
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5CE4D415-06D8-4051-ADB6-B316152DE400}
+      IID 146
+      NAME Bpm100_F_Bass_BigFest01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7ED2D2C-B077-4128-8530-249D5604F14A}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_BigFest01.wav"
+      >
+    >
+    <ITEM
+      POSITION 86.40000000002328
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C998B586-2FD3-4EE8-990B-21DFC77B26E2}
+      IID 146
+      NAME Bpm100_F_Bass_BigFest01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ECB25734-A049-4777-8924-B80B1186D759}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_BigFest01.wav"
+      >
+    >
+    <ITEM
+      POSITION 96
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {95BE42FC-9537-4CF5-B0AB-BD3EBCA03B34}
+      IID 153
+      NAME "Bpm100_F_Bass_FestBuildUp reversed 001.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25A50640-F49D-450E-AC31-F086B7767426}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_FestBuildUp reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.4
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {42A04255-0961-4616-BD4F-075314147BE3}
+      IID 153
+      NAME Bpm100_F_Bass_FestBuildUp.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1979FFDB-A36E-4F6A-AF44-B658DF527178}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_FestBuildUp.wav"
+      >
+    >
+    <ITEM
+      POSITION 136.8
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A001320E-6011-4429-B9D8-EDC91648D390}
+      IID 233
+      NAME Bpm100_F_Bass_FestBuildUp.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0C69961F-5AA2-47E5-9F04-4E3258187F0F}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_FestBuildUp.wav"
+      >
+    >
+    <ITEM
+      POSITION 139.2
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CDE3223C-0A1D-417D-B3C2-0DB9426BE05B}
+      IID 146
+      NAME Bpm100_F_Bass_BigFest01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0B45040B-75D1-4E4A-B040-392001C4502B}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_BigFest01.wav"
+      >
+    >
+    <ITEM
+      POSITION 148.79999999997676
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4132180B-76C7-4172-ACEA-880FFC1BBDD2}
+      IID 146
+      NAME Bpm100_F_Bass_BigFest01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {76E97300-6298-43BB-90CC-CF3D399BFCE5}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_BigFest01.wav"
+      >
+    >
+    <ITEM
+      POSITION 158.4
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {55CFCD17-B319-463C-A0EC-FEDEE259B467}
+      IID 153
+      NAME "Bpm100_F_Bass_FestBuildUp reversed 001.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12601162-0512-4AB0-8A8F-D6A06B6E079F}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_FestBuildUp reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 160.80000000002332
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CF3B3D01-399F-4BFA-AAB1-8F602B76DA12}
+      IID 153
+      NAME Bpm100_F_Bass_FestBuildUp.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {591C2218-4E37-4740-9289-82F547AE9862}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_FestBuildUp.wav"
+      >
+    >
+  >
+  <TRACK {86D01E8C-BEA8-4355-8D02-2E6A2F03AA9E}
+    NAME Bpm140_G_808Loop02
+    PEAKCOL 21004543
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {86D01E8C-BEA8-4355-8D02-2E6A2F03AA9E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {74FB0F47-1F27-421E-8267-2D9045B667CC}
+      IID 146
+      NAME Bpm100_F_Bass_BigFest01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F375A72-D5A2-44DE-A1D1-357B9370181B}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_BigFest01.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.6
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AD6E87DE-0039-42C0-BD53-2F652B3A67BE}
+      IID 146
+      NAME Bpm100_F_Bass_BigFest01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A14795C9-4927-444F-B2F9-47D47FE468EB}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_BigFest01.wav"
+      >
+    >
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5C9F5CE0-36DC-4BFA-9A39-A67672F2F57D}
+      IID 154
+      NAME Bpm100_F_Bass_DirtyLaser01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D27451A2-A373-4250-B311-9D68F9905732}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser01.wav"
+      >
+    >
+    <ITEM
+      POSITION 45.6
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {40A5F6CD-D116-4D05-B541-57D8525D9CB1}
+      IID 154
+      NAME Bpm100_F_Bass_DirtyLaser01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {03A6373D-09D9-4029-9606-3B6A1FA06E5F}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser01.wav"
+      >
+    >
+    <ITEM
+      POSITION 56.4
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4AB3C7E8-AA63-471F-BBF1-408E71165A6A}
+      IID 154
+      NAME Bpm100_F_Bass_DirtyLaser01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D5C1AEB7-A365-400E-8E44-3881398F9AE0}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser01.wav"
+      >
+    >
+    <ITEM
+      POSITION 66
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {359D596A-DD0F-4C16-BD3C-B01F6B07D8A5}
+      IID 154
+      NAME Bpm100_F_Bass_DirtyLaser01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BEF5D6A4-9C74-419F-9C8C-EE562565FC91}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser01.wav"
+      >
+    >
+    <ITEM
+      POSITION 81.59999999997673
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {502C63C9-D3E9-4E1E-9348-EEDE52AAAB3A}
+      IID 147
+      NAME Bpm100_F_Bass_BigFest02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB0E3510-545A-4C31-A61A-A959947EDB66}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_BigFest02.wav"
+      >
+    >
+    <ITEM
+      POSITION 91.19999999995343
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B02AA0D5-479C-4184-AF85-3619D926DAED}
+      IID 147
+      NAME Bpm100_F_Bass_BigFest02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41967728-8131-4A77-8C30-AB5E49E9295E}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_BigFest02.wav"
+      >
+    >
+    <ITEM
+      POSITION 98.4
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AF193B37-8A89-41DD-B701-143F4C2A8F1A}
+      IID 201
+      NAME Bpm100_F_Bass_SpringPattern01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A3ACE1C-5D2A-4484-BF1B-05CA5BA5B34D}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_SpringPattern01.wav"
+      >
+    >
+    <ITEM
+      POSITION 107.99999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DEED8BA7-F2F8-49FD-AFDB-B2A514CFDD9D}
+      IID 201
+      NAME Bpm100_F_Bass_SpringPattern01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4F96B1E-686B-4A31-B2BD-9EB64DC4B0EF}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_SpringPattern01.wav"
+      >
+    >
+    <ITEM
+      POSITION 118.8
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {11C202CB-377B-4A3D-9807-A2EE385D1248}
+      IID 234
+      NAME Bpm100_F_Bass_DirtyLaser01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AE39AF3E-1696-481D-93C2-0530F6059177}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser01.wav"
+      >
+    >
+    <ITEM
+      POSITION 128.4
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {71566708-07CC-4C5C-A750-80AFB85A3E54}
+      IID 235
+      NAME Bpm100_F_Bass_DirtyLaser01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5F19F97-D749-4586-B16A-C3900716A5EB}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser01.wav"
+      >
+    >
+    <ITEM
+      POSITION 143.99999999993011
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8E7B1117-1B34-4E29-A1CC-8D63C7F185A1}
+      IID 147
+      NAME Bpm100_F_Bass_BigFest02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BC6A13C-7946-46AB-856C-90D71E50C68A}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_BigFest02.wav"
+      >
+    >
+    <ITEM
+      POSITION 153.59999999990691
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F4100BF5-8A66-40F5-B551-B3C2A880B8C5}
+      IID 147
+      NAME Bpm100_F_Bass_BigFest02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F2F494D4-EF26-43E1-8B16-735435C2823F}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_BigFest02.wav"
+      >
+    >
+    <ITEM
+      POSITION 163.20000000004657
+      SNAPOFFS 0
+      LENGTH 0.3062534746575
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.068677 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1F8C259E-5D53-4097-B5B7-0E6CC2343781}
+      IID 154
+      NAME Bpm100_F_Bass_DirtyLaser01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {86F6A023-5FEC-4E79-9595-FF7007C97532}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser01.wav"
+      >
+    >
+  >
+  <TRACK {605DE2E5-4BA7-497C-9BBA-1D60894E7831}
+    NAME Bpm150_808Loop_01
+    PEAKCOL 21004543
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {605DE2E5-4BA7-497C-9BBA-1D60894E7831}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 16.8
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7071F538-A1B4-4F32-ACC9-2E2A57E76552}
+      IID 147
+      NAME Bpm100_F_Bass_BigFest02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5121E842-FB84-4C37-9448-231D5F8CAE9C}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_BigFest02.wav"
+      >
+    >
+    <ITEM
+      POSITION 26.4
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {73AE69BC-2175-4BED-B971-05B553442154}
+      IID 147
+      NAME Bpm100_F_Bass_BigFest02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2F393BFD-A9AF-4E81-8952-B0DE92ADFE07}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_BigFest02.wav"
+      >
+    >
+    <ITEM
+      POSITION 38.4
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CE5C6E5F-79D9-4ACF-8E58-F6324A3F60D0}
+      IID 155
+      NAME Bpm100_F_Bass_DirtyLaser02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6DAA0F40-81A4-483F-8515-565D1D61F21F}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser02.wav"
+      >
+    >
+    <ITEM
+      POSITION 43.2
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1FB3F769-1B83-4ADB-9623-6E402A57397A}
+      IID 155
+      NAME Bpm100_F_Bass_DirtyLaser02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E6D7AEC-069C-4228-9294-CB92EEB144A1}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser02.wav"
+      >
+    >
+    <ITEM
+      POSITION 48
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {434492F5-E173-435E-BA81-47C81E4F8F03}
+      IID 155
+      NAME Bpm100_F_Bass_DirtyLaser02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E8E0A2B-17A6-4813-8909-92D6DB4B3C65}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser02.wav"
+      >
+    >
+    <ITEM
+      POSITION 52.8
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F1159E58-DCE8-46A0-A219-A5CC7F0E330E}
+      IID 155
+      NAME Bpm100_F_Bass_DirtyLaser02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8A58695A-52B1-4E23-9C46-BC0FE6F56AF8}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser02.wav"
+      >
+    >
+    <ITEM
+      POSITION 58.8
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4C89EAF1-3207-42A5-9FEC-FF9F8BC4D8D2}
+      IID 155
+      NAME Bpm100_F_Bass_DirtyLaser02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {047556A4-EEE4-4E31-B416-48FEF81D7630}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser02.wav"
+      >
+    >
+    <ITEM
+      POSITION 68.4
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C7991253-9A31-4DFF-969B-240342B9FC0E}
+      IID 155
+      NAME Bpm100_F_Bass_DirtyLaser02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B51F54DA-A9C2-4711-B550-0533ECAEB109}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser02.wav"
+      >
+    >
+    <ITEM
+      POSITION 100.80000000004657
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {308932B6-E146-47A4-8FC4-CD9F0D5B64C5}
+      IID 203
+      NAME Bpm100_F_Bass_SpringPattern02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ACFEC17B-1AA0-4B53-9ECB-04DA9A16F2E1}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_SpringPattern02.wav"
+      >
+    >
+    <ITEM
+      POSITION 110.4000000000233
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1A807A05-DD27-480B-97C4-06A85F0ED06B}
+      IID 203
+      NAME Bpm100_F_Bass_SpringPattern02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E4F4C853-1675-41F8-B8ED-2683171C445E}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_SpringPattern02.wav"
+      >
+    >
+    <ITEM
+      POSITION 121.2
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {313260A2-32AF-497E-A596-376058A740A8}
+      IID 236
+      NAME Bpm100_F_Bass_DirtyLaser02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65AD12FC-2815-4D05-9629-ACF23D847407}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser02.wav"
+      >
+    >
+    <ITEM
+      POSITION 130.8
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {02A05F42-BBD5-4D49-97A8-25D697A12C63}
+      IID 237
+      NAME Bpm100_F_Bass_DirtyLaser02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A480268E-0AEC-4F2A-9945-8319858620A8}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser02.wav"
+      >
+    >
+  >
+  <TRACK {79A263F2-EB57-4A96-B196-F7C342AAEBBE}
+    NAME Bpm100_F_Bass_FestBuildUp
+    PEAKCOL 16793792
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {79A263F2-EB57-4A96-B196-F7C342AAEBBE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 655 403
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 40.8
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8A7BBC00-E244-4384-99A8-0432BD019A82}
+      IID 157
+      NAME Bpm100_F_Bass_DirtyLaser03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1793B275-3060-4BA5-8823-99A5B9621943}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser03.wav"
+      >
+    >
+    <ITEM
+      POSITION 61.2
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {85CEF387-CA00-4B6B-A11F-81292CC85203}
+      IID 157
+      NAME Bpm100_F_Bass_DirtyLaser03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E2C58739-1B0C-4920-9691-CF8E3B5E5271}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser03.wav"
+      >
+    >
+    <ITEM
+      POSITION 70.8
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F77575E2-1CDA-42D6-AB2E-80BEBF505AEE}
+      IID 157
+      NAME Bpm100_F_Bass_DirtyLaser03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {304C0938-B2C4-4BF5-AFC4-4B9031D48361}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser03.wav"
+      >
+    >
+    <ITEM
+      POSITION 103.19999999995343
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {779B4174-88D6-4092-B1DD-9BBD629C83FC}
+      IID 204
+      NAME Bpm100_F_Bass_SpringPattern03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {63637647-9AF4-4E78-96D7-22005B55ABC0}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_SpringPattern03.wav"
+      >
+    >
+    <ITEM
+      POSITION 112.79999999993015
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E3C8CAA8-45EE-4322-9918-60F135CBFDA6}
+      IID 204
+      NAME Bpm100_F_Bass_SpringPattern03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A8567878-53FB-4BFF-B839-28A8295F5D87}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_SpringPattern03.wav"
+      >
+    >
+    <ITEM
+      POSITION 123.6
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2C6CC90B-E5FE-4B59-A8F4-46DE54A04640}
+      IID 238
+      NAME Bpm100_F_Bass_DirtyLaser03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A202A3F5-C5E2-4F92-BA50-07F3A7940F80}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser03.wav"
+      >
+    >
+    <ITEM
+      POSITION 133.2
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {65F2308B-3FDC-44ED-83B5-35FB4224985E}
+      IID 239
+      NAME Bpm100_F_Bass_DirtyLaser03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5D10A52-DA9C-4B6C-B51A-1201EA447256}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser03.wav"
+      >
+    >
+  >
+  <TRACK {5CC29C55-C733-4AEB-B23F-22871DDAFB7E}
+    NAME Bpm100_F_Bass_DirtyLaser04
+    PEAKCOL 21004543
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5CC29C55-C733-4AEB-B23F-22871DDAFB7E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 50.4
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {587FCC20-FC72-48D6-ABE2-C2356082D22F}
+      IID 158
+      NAME Bpm100_F_Bass_DirtyLaser04.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D0E237E-8A37-44F2-BEC6-7075A660FB54}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser04.wav"
+      >
+    >
+    <ITEM
+      POSITION 63.6
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {23E3894C-FE99-4B91-85DC-6CAE26BAE80D}
+      IID 158
+      NAME Bpm100_F_Bass_DirtyLaser04.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7DF2075-CC81-47A0-8571-0A9A972D4875}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser04.wav"
+      >
+    >
+    <ITEM
+      POSITION 73.2
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {35CAABFC-965C-4D45-846B-5C7BB9D132E6}
+      IID 158
+      NAME Bpm100_F_Bass_DirtyLaser04.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4CBED99-09AD-4408-B60E-A2716A6ABB17}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser04.wav"
+      >
+    >
+    <ITEM
+      POSITION 105.59999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A4A2CE10-0901-4CD0-A468-9C6D39D58F06}
+      IID 205
+      NAME Bpm100_F_Bass_SpringPattern04.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6B80608-C9A2-4BF1-8CD6-A688B6BBA617}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_SpringPattern04.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.19999999995345
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8A60A3D7-325D-4EBC-B76B-E1435294653B}
+      IID 205
+      NAME Bpm100_F_Bass_SpringPattern04.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {445D40BD-85FE-468E-95FD-036B7591D8E1}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_SpringPattern04.wav"
+      >
+    >
+    <ITEM
+      POSITION 126
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E5D06F54-93B0-4FA7-AF30-952E60AEFA0B}
+      IID 240
+      NAME Bpm100_F_Bass_DirtyLaser04.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {23287072-46B6-4C9B-AE0B-16C4BF83510C}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser04.wav"
+      >
+    >
+    <ITEM
+      POSITION 135.6
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B1D4406B-FEDD-487B-B2B9-50E358B8E6C6}
+      IID 241
+      NAME Bpm100_F_Bass_DirtyLaser04.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6E13744-4DD5-4837-A785-9134FDE417E8}
+      <SOURCE WAVE
+        FILE "Bpm100_F_Bass_DirtyLaser04.wav"
+      >
+    >
+  >
+  <TRACK {26BD440C-A48E-49CA-9550-9B0D0A2C9EBD}
+    NAME FX
+    PEAKCOL 33489151
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {26BD440C-A48E-49CA-9550-9B0D0A2C9EBD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {3A5415CC-0190-489E-9788-3E1531A4351C}
+    NAME ""
+    PEAKCOL 33489151
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3A5415CC-0190-489E-9788-3E1531A4351C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 33
+      SNAPOFFS 0
+      LENGTH 1.02333333333335
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.219072 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4E9A9ECB-A9D0-42AE-B861-7E5874749406}
+      IID 163
+      NAME F_Bass_Fart01.wav
+      VOLPAN 0.703704 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38D496B6-001B-4627-B94E-0E5C101B918E}
+      <SOURCE WAVE
+        FILE "F_Bass_Fart01.wav"
+      >
+    >
+    <ITEM
+      POSITION 160.20000000004657
+      SNAPOFFS 0
+      LENGTH 1.02333333333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.219072 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {147989BF-DF51-41F1-A4F6-5A7C60EDDF34}
+      IID 163
+      NAME F_Bass_Fart01.wav
+      VOLPAN 0.703704 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE022E89-1785-45B4-986B-928AA505923A}
+      <SOURCE WAVE
+        FILE "F_Bass_Fart01.wav"
+      >
+    >
+  >
+>
